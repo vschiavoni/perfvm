@@ -1,0 +1,8002 @@
+2014-11-02 18:40:23.1414953623
+Total time: 	0.087
+
+Total time: 	0.233
+
+Total time: 	0.126
+
+Total time: 	0.104
+
+Total time: 	0.175
+
+Total time: 	0.127
+
+Total time: 	0.109
+
+Total time: 	0.103
+
+Total time: 	0.130
+
+Total time: 	0.159
+
+Total time: 	0.151
+
+Total time: 	0.102
+
+Total time: 	0.107
+
+Total time: 	0.108
+
+Total time: 	0.108
+
+Total time: 	0.137
+
+Total time: 	0.177
+
+Total time: 	0.106
+
+Total time: 	0.111
+
+Total time: 	0.125
+
+Total time: 	0.136
+
+Total time: 	0.141
+
+Total time: 	0.128
+
+Total time: 	0.131
+
+Total time: 	0.092
+
+Total time: 	0.192
+
+Total time: 	0.136
+
+Total time: 	0.202
+
+Total time: 	0.116
+
+Total time: 	0.112
+
+Total time: 	0.110
+
+Total time: 	0.107
+
+Total time: 	0.114
+
+Total time: 	0.171
+
+Total time: 	0.093
+
+Total time: 	0.117
+
+Total time: 	0.136
+
+Total time: 	0.111
+
+Total time: 	0.110
+
+Total time: 	0.166
+
+Total time: 	0.135
+
+Total time: 	0.123
+
+Total time: 	0.093
+
+Total time: 	0.131
+
+Total time: 	0.172
+
+Total time: 	0.124
+
+Total time: 	0.099
+
+Total time: 	0.117
+
+Total time: 	0.096
+
+Total time: 	0.144
+
+Total time: 	0.134
+
+Total time: 	0.095
+
+Total time: 	0.112
+
+Total time: 	0.117
+
+Total time: 	0.124
+
+Total time: 	0.098
+
+Total time: 	0.090
+
+Total time: 	0.125
+
+Total time: 	0.112
+
+Total time: 	0.164
+
+Total time: 	0.128
+
+Total time: 	0.105
+
+Total time: 	0.160
+
+Total time: 	0.120
+
+Total time: 	0.145
+
+Total time: 	0.126
+
+Total time: 	0.119
+
+Total time: 	0.100
+
+Total time: 	0.157
+
+Total time: 	0.099
+
+Total time: 	0.117
+
+Total time: 	0.154
+
+Total time: 	0.109
+
+Total time: 	0.099
+
+Total time: 	0.187
+
+Total time: 	0.120
+
+Total time: 	0.106
+
+Total time: 	0.115
+
+Total time: 	0.118
+
+Total time: 	0.095
+
+Total time: 	0.130
+
+Total time: 	0.110
+
+Total time: 	0.104
+
+Total time: 	0.110
+
+Total time: 	0.159
+
+Total time: 	0.112
+
+Total time: 	0.110
+
+Total time: 	0.161
+
+Total time: 	0.118
+
+Total time: 	0.124
+
+Total time: 	0.101
+
+Total time: 	0.113
+
+Total time: 	0.156
+
+Total time: 	0.110
+
+Total time: 	0.098
+
+Total time: 	0.132
+
+Total time: 	0.106
+
+Total time: 	0.121
+
+Total time: 	0.143
+
+Total time: 	0.101
+
+Total time: 	0.111
+
+Total time: 	0.118
+
+Total time: 	0.103
+
+Total time: 	0.110
+
+Total time: 	0.149
+
+Total time: 	0.145
+
+Total time: 	0.101
+
+Total time: 	0.145
+
+Total time: 	0.092
+
+Total time: 	0.088
+
+Total time: 	0.121
+
+Total time: 	0.174
+
+Total time: 	0.103
+
+Total time: 	0.105
+
+Total time: 	0.165
+
+Total time: 	0.121
+
+Total time: 	0.183
+
+Total time: 	0.085
+
+Total time: 	0.093
+
+Total time: 	0.168
+
+Total time: 	0.096
+
+Total time: 	0.108
+
+Total time: 	0.210
+
+Total time: 	0.115
+
+Total time: 	0.156
+
+Total time: 	0.141
+
+Total time: 	0.096
+
+Total time: 	0.121
+
+Total time: 	0.120
+
+Total time: 	0.109
+
+Total time: 	0.084
+
+Total time: 	0.099
+
+Total time: 	0.119
+
+Total time: 	0.109
+
+Total time: 	0.105
+
+Total time: 	0.109
+
+Total time: 	0.099
+
+Total time: 	0.095
+
+Total time: 	0.117
+
+Total time: 	0.128
+
+Total time: 	0.102
+
+Total time: 	0.161
+
+Total time: 	0.089
+
+Total time: 	0.110
+
+Total time: 	0.123
+
+Total time: 	0.119
+
+Total time: 	0.134
+
+Total time: 	0.099
+
+Total time: 	0.116
+
+Total time: 	0.119
+
+Total time: 	0.124
+
+Total time: 	0.126
+
+Total time: 	0.127
+
+Total time: 	0.107
+
+Total time: 	0.139
+
+Total time: 	0.118
+
+Total time: 	0.124
+
+Total time: 	0.121
+
+Total time: 	0.114
+
+Total time: 	0.142
+
+Total time: 	0.167
+
+Total time: 	0.088
+
+Total time: 	0.139
+
+Total time: 	0.098
+
+Total time: 	0.090
+
+Total time: 	0.138
+
+Total time: 	0.121
+
+Total time: 	0.129
+
+Total time: 	0.131
+
+Total time: 	0.101
+
+Total time: 	0.113
+
+Total time: 	0.190
+
+Total time: 	0.140
+
+Total time: 	0.129
+
+Total time: 	0.097
+
+Total time: 	0.124
+
+Total time: 	0.103
+
+Total time: 	0.148
+
+Total time: 	0.143
+
+Total time: 	0.129
+
+Total time: 	0.138
+
+Total time: 	0.097
+
+Total time: 	0.104
+
+Total time: 	0.186
+
+Total time: 	0.113
+
+Total time: 	0.137
+
+Total time: 	0.119
+
+Total time: 	0.139
+
+Total time: 	0.195
+
+Total time: 	0.099
+
+Total time: 	0.094
+
+Total time: 	0.129
+
+Total time: 	0.117
+
+Total time: 	0.104
+
+Total time: 	0.146
+
+Total time: 	0.119
+
+Total time: 	0.105
+
+Total time: 	0.119
+
+Total time: 	0.102
+
+Total time: 	0.109
+
+Total time: 	0.120
+
+Total time: 	0.148
+
+Total time: 	0.092
+
+Total time: 	0.108
+
+Total time: 	0.114
+
+Total time: 	0.106
+
+Total time: 	0.103
+
+Total time: 	0.194
+
+Total time: 	0.108
+
+Total time: 	0.105
+
+Total time: 	0.119
+
+Total time: 	0.116
+
+Total time: 	0.097
+
+Total time: 	0.175
+
+Total time: 	0.131
+
+Total time: 	0.111
+
+Total time: 	0.128
+
+Total time: 	0.104
+
+Total time: 	0.103
+
+Total time: 	0.145
+
+Total time: 	0.164
+
+Total time: 	0.122
+
+Total time: 	0.124
+
+Total time: 	0.127
+
+Total time: 	0.128
+
+Total time: 	0.149
+
+Total time: 	0.088
+
+Total time: 	0.115
+
+Total time: 	0.096
+
+Total time: 	0.114
+
+Total time: 	0.125
+
+Total time: 	0.185
+
+Total time: 	0.131
+
+Total time: 	0.094
+
+Total time: 	0.092
+
+Total time: 	0.091
+
+Total time: 	0.083
+
+Total time: 	0.195
+
+Total time: 	0.110
+
+Total time: 	0.109
+
+Total time: 	0.132
+
+Total time: 	0.140
+
+Total time: 	0.096
+
+Total time: 	0.148
+
+Total time: 	0.121
+
+Total time: 	0.110
+
+Total time: 	0.123
+
+Total time: 	0.100
+
+Total time: 	0.105
+
+Total time: 	0.111
+
+Total time: 	0.142
+
+Total time: 	0.112
+
+Total time: 	0.117
+
+Total time: 	0.118
+
+Total time: 	0.112
+
+Total time: 	0.115
+
+Total time: 	0.138
+
+Total time: 	0.117
+
+Total time: 	0.111
+
+Total time: 	0.104
+
+Total time: 	0.106
+
+Total time: 	0.123
+
+Total time: 	0.161
+
+Total time: 	0.100
+
+Total time: 	0.129
+
+Total time: 	0.129
+
+Total time: 	0.101
+
+Total time: 	0.129
+
+Total time: 	0.199
+
+Total time: 	0.099
+
+Total time: 	0.098
+
+Total time: 	0.141
+
+Total time: 	0.122
+
+Total time: 	0.177
+
+Total time: 	0.131
+
+Total time: 	0.116
+
+Total time: 	0.122
+
+Total time: 	0.111
+
+Total time: 	0.096
+
+Total time: 	0.203
+
+Total time: 	0.105
+
+Total time: 	0.118
+
+Total time: 	0.121
+
+Total time: 	0.135
+
+Total time: 	0.095
+
+Total time: 	0.190
+
+Total time: 	0.096
+
+Total time: 	0.090
+
+Total time: 	0.122
+
+Total time: 	0.102
+
+Total time: 	0.088
+
+Total time: 	0.186
+
+Total time: 	0.100
+
+Total time: 	0.096
+
+Total time: 	0.146
+
+Total time: 	0.127
+
+Total time: 	0.119
+
+Total time: 	0.171
+
+Total time: 	0.130
+
+Total time: 	0.099
+
+Total time: 	0.105
+
+Total time: 	0.128
+
+Total time: 	0.127
+
+Total time: 	0.155
+
+Total time: 	0.099
+
+Total time: 	0.105
+
+Total time: 	0.098
+
+Total time: 	0.137
+
+Total time: 	0.113
+
+Total time: 	0.199
+
+Total time: 	0.112
+
+Total time: 	0.172
+
+Total time: 	0.130
+
+Total time: 	0.168
+
+Total time: 	0.163
+
+Total time: 	0.134
+
+Total time: 	0.110
+
+Total time: 	0.078
+
+Total time: 	0.134
+
+Total time: 	0.104
+
+Total time: 	0.166
+
+Total time: 	0.126
+
+Total time: 	0.147
+
+Total time: 	0.120
+
+Total time: 	0.145
+
+Total time: 	0.238
+
+Total time: 	0.107
+
+Total time: 	0.104
+
+Total time: 	0.125
+
+Total time: 	0.128
+
+Total time: 	0.100
+
+Total time: 	0.203
+
+Total time: 	0.117
+
+Total time: 	0.094
+
+Total time: 	0.158
+
+Total time: 	0.097
+
+Total time: 	0.097
+
+Total time: 	0.176
+
+Total time: 	0.102
+
+Total time: 	0.105
+
+Total time: 	0.112
+
+Total time: 	0.120
+
+Total time: 	0.117
+
+Total time: 	0.169
+
+Total time: 	0.099
+
+Total time: 	0.097
+
+Total time: 	0.146
+
+Total time: 	0.139
+
+Total time: 	0.129
+
+Total time: 	0.209
+
+Total time: 	0.109
+
+Total time: 	0.093
+
+Total time: 	0.224
+
+Total time: 	0.142
+
+Total time: 	0.164
+
+Total time: 	0.277
+
+Total time: 	0.139
+
+Total time: 	0.301
+
+Total time: 	0.195
+
+Total time: 	0.121
+
+Total time: 	0.115
+
+Total time: 	0.108
+
+Total time: 	0.127
+
+Total time: 	0.137
+
+Total time: 	0.129
+
+Total time: 	0.094
+
+Total time: 	0.090
+
+Total time: 	0.138
+
+Total time: 	0.094
+
+Total time: 	0.129
+
+Total time: 	0.159
+
+Total time: 	0.129
+
+Total time: 	0.108
+
+Total time: 	0.132
+
+Total time: 	0.094
+
+Total time: 	0.129
+
+Total time: 	0.185
+
+Total time: 	0.123
+
+Total time: 	0.101
+
+Total time: 	0.113
+
+Total time: 	0.113
+
+Total time: 	0.169
+
+Total time: 	0.144
+
+Total time: 	0.149
+
+Total time: 	0.114
+
+Total time: 	0.106
+
+Total time: 	0.116
+
+Total time: 	0.161
+
+Total time: 	0.129
+
+Total time: 	0.149
+
+Total time: 	0.101
+
+Total time: 	0.095
+
+Total time: 	0.090
+
+Total time: 	0.132
+
+Total time: 	0.111
+
+Total time: 	0.113
+
+Total time: 	0.101
+
+Total time: 	0.093
+
+Total time: 	0.091
+
+Total time: 	0.162
+
+Total time: 	0.100
+
+Total time: 	0.115
+
+Total time: 	0.120
+
+Total time: 	0.119
+
+Total time: 	0.122
+
+Total time: 	0.094
+
+Total time: 	0.145
+
+Total time: 	0.120
+
+Total time: 	0.144
+
+Total time: 	0.143
+
+Total time: 	0.110
+
+Total time: 	0.143
+
+Total time: 	0.119
+
+Total time: 	0.132
+
+Total time: 	0.131
+
+Total time: 	0.098
+
+Total time: 	0.114
+
+Total time: 	0.180
+
+Total time: 	0.144
+
+Total time: 	0.129
+
+Total time: 	0.103
+
+Total time: 	0.130
+
+Total time: 	0.134
+
+Total time: 	0.173
+
+Total time: 	0.099
+
+Total time: 	0.116
+
+Total time: 	0.109
+
+Total time: 	0.098
+
+Total time: 	0.094
+
+Total time: 	0.133
+
+Total time: 	0.185
+
+Total time: 	0.092
+
+Total time: 	0.104
+
+Total time: 	0.138
+
+Total time: 	0.096
+
+Total time: 	0.108
+
+Total time: 	0.154
+
+Total time: 	0.132
+
+Total time: 	0.094
+
+Total time: 	0.136
+
+Total time: 	0.125
+
+Total time: 	0.179
+
+Total time: 	0.114
+
+Total time: 	0.124
+
+Total time: 	0.112
+
+Total time: 	0.123
+
+Total time: 	0.160
+
+Total time: 	0.160
+
+Total time: 	0.110
+
+Total time: 	0.121
+
+Total time: 	0.107
+
+Total time: 	0.117
+
+Total time: 	0.110
+
+Total time: 	0.217
+
+Total time: 	0.113
+
+Total time: 	0.109
+
+Total time: 	0.131
+
+Total time: 	0.115
+
+Total time: 	0.135
+
+Total time: 	0.185
+
+Total time: 	0.119
+
+Total time: 	0.105
+
+Total time: 	0.112
+
+Total time: 	0.108
+
+Total time: 	0.124
+
+Total time: 	0.168
+
+Total time: 	0.093
+
+Total time: 	0.112
+
+Total time: 	0.102
+
+Total time: 	0.088
+
+Total time: 	0.154
+
+Total time: 	0.149
+
+Total time: 	0.091
+
+Total time: 	0.117
+
+Total time: 	0.162
+
+Total time: 	0.118
+
+Total time: 	0.177
+
+Total time: 	0.104
+
+Total time: 	0.144
+
+Total time: 	0.108
+
+Total time: 	0.087
+
+Total time: 	0.138
+
+Total time: 	0.126
+
+Total time: 	0.102
+
+Total time: 	0.100
+
+Total time: 	0.131
+
+Total time: 	0.125
+
+Total time: 	0.105
+
+Total time: 	0.169
+
+Total time: 	0.118
+
+Total time: 	0.106
+
+Total time: 	0.098
+
+Total time: 	0.142
+
+Total time: 	0.123
+
+Total time: 	0.131
+
+Total time: 	0.133
+
+Total time: 	0.135
+
+Total time: 	0.110
+
+Total time: 	0.100
+
+Total time: 	0.103
+
+Total time: 	0.216
+
+Total time: 	0.107
+
+Total time: 	0.125
+
+Total time: 	0.173
+
+Total time: 	0.106
+
+Total time: 	0.164
+
+Total time: 	0.103
+
+Total time: 	0.114
+
+Total time: 	0.097
+
+Total time: 	0.125
+
+Total time: 	0.156
+
+Total time: 	0.141
+
+Total time: 	0.106
+
+Total time: 	0.130
+
+Total time: 	0.120
+
+Total time: 	0.096
+
+Total time: 	0.169
+
+Total time: 	0.113
+
+Total time: 	0.111
+
+Total time: 	0.122
+
+Total time: 	0.111
+
+Total time: 	0.119
+
+Total time: 	0.161
+
+Total time: 	0.122
+
+Total time: 	0.096
+
+Total time: 	0.096
+
+Total time: 	0.109
+
+Total time: 	0.105
+
+Total time: 	0.097
+
+Total time: 	0.171
+
+Total time: 	0.134
+
+Total time: 	0.153
+
+Total time: 	0.115
+
+Total time: 	0.113
+
+Total time: 	0.174
+
+Total time: 	0.148
+
+Total time: 	0.148
+
+Total time: 	0.115
+
+Total time: 	0.104
+
+Total time: 	0.109
+
+Total time: 	0.190
+
+Total time: 	0.094
+
+Total time: 	0.113
+
+Total time: 	0.133
+
+Total time: 	0.087
+
+Total time: 	0.133
+
+Total time: 	0.166
+
+Total time: 	0.128
+
+Total time: 	0.111
+
+Total time: 	0.095
+
+Total time: 	0.100
+
+Total time: 	0.106
+
+Total time: 	0.193
+
+Total time: 	0.141
+
+Total time: 	0.115
+
+Total time: 	0.116
+
+Total time: 	0.113
+
+Total time: 	0.099
+
+Total time: 	0.158
+
+Total time: 	0.120
+
+Total time: 	0.173
+
+Total time: 	0.098
+
+Total time: 	0.111
+
+Total time: 	0.112
+
+Total time: 	0.123
+
+Total time: 	0.128
+
+Total time: 	0.111
+
+Total time: 	0.125
+
+Total time: 	0.104
+
+Total time: 	0.133
+
+Total time: 	0.129
+
+Total time: 	0.100
+
+Total time: 	0.099
+
+Total time: 	0.103
+
+Total time: 	0.116
+
+Total time: 	0.100
+
+Total time: 	0.154
+
+Total time: 	0.135
+
+Total time: 	0.131
+
+Total time: 	0.106
+
+Total time: 	0.118
+
+Total time: 	0.099
+
+Total time: 	0.183
+
+Total time: 	0.085
+
+Total time: 	0.139
+
+Total time: 	0.142
+
+Total time: 	0.110
+
+Total time: 	0.169
+
+Total time: 	0.131
+
+Total time: 	0.112
+
+Total time: 	0.109
+
+Total time: 	0.091
+
+Total time: 	0.110
+
+Total time: 	0.179
+
+Total time: 	0.157
+
+Total time: 	0.116
+
+Total time: 	0.098
+
+Total time: 	0.100
+
+Total time: 	0.138
+
+Total time: 	0.143
+
+Total time: 	0.128
+
+Total time: 	0.105
+
+Total time: 	0.164
+
+Total time: 	0.120
+
+Total time: 	0.140
+
+Total time: 	0.164
+
+Total time: 	0.115
+
+Total time: 	0.100
+
+Total time: 	0.111
+
+Total time: 	0.259
+
+Total time: 	0.147
+
+Total time: 	0.140
+
+Total time: 	0.109
+
+Total time: 	0.121
+
+Total time: 	0.125
+
+Total time: 	0.132
+
+Total time: 	0.098
+
+Total time: 	0.093
+
+Total time: 	0.124
+
+Total time: 	0.107
+
+Total time: 	0.153
+
+Total time: 	0.125
+
+Total time: 	0.109
+
+Total time: 	0.145
+
+Total time: 	0.106
+
+Total time: 	0.122
+
+Total time: 	0.143
+
+Total time: 	0.190
+
+Total time: 	0.165
+
+Total time: 	0.117
+
+Total time: 	0.243
+
+Total time: 	0.131
+
+Total time: 	0.168
+
+Total time: 	0.096
+
+Total time: 	0.105
+
+Total time: 	0.118
+
+Total time: 	0.141
+
+Total time: 	0.093
+
+Total time: 	0.153
+
+Total time: 	0.150
+
+Total time: 	0.114
+
+Total time: 	0.115
+
+Total time: 	0.090
+
+Total time: 	0.113
+
+Total time: 	0.158
+
+Total time: 	0.147
+
+Total time: 	0.112
+
+Total time: 	0.104
+
+Total time: 	0.100
+
+Total time: 	0.108
+
+Total time: 	0.092
+
+Total time: 	0.108
+
+Total time: 	0.089
+
+Total time: 	0.094
+
+Total time: 	0.112
+
+Total time: 	0.099
+
+Total time: 	0.102
+
+Total time: 	0.115
+
+Total time: 	0.141
+
+Total time: 	0.145
+
+Total time: 	0.137
+
+Total time: 	0.085
+
+Total time: 	0.120
+
+Total time: 	0.097
+
+Total time: 	0.132
+
+Total time: 	0.131
+
+Total time: 	0.110
+
+Total time: 	0.110
+
+Total time: 	0.133
+
+Total time: 	0.131
+
+Total time: 	0.111
+
+Total time: 	0.133
+
+Total time: 	0.123
+
+Total time: 	0.095
+
+Total time: 	0.101
+
+Total time: 	0.134
+
+Total time: 	0.107
+
+Total time: 	0.134
+
+Total time: 	0.161
+
+Total time: 	0.114
+
+Total time: 	0.104
+
+Total time: 	0.100
+
+Total time: 	0.180
+
+Total time: 	0.109
+
+Total time: 	0.136
+
+Total time: 	0.099
+
+Total time: 	0.096
+
+Total time: 	0.151
+
+Total time: 	0.160
+
+Total time: 	0.094
+
+Total time: 	0.103
+
+Total time: 	0.105
+
+Total time: 	0.143
+
+Total time: 	0.088
+
+Total time: 	0.179
+
+Total time: 	0.106
+
+Total time: 	0.120
+
+Total time: 	0.107
+
+Total time: 	0.106
+
+Total time: 	0.081
+
+Total time: 	0.160
+
+Total time: 	0.110
+
+Total time: 	0.145
+
+Total time: 	0.109
+
+Total time: 	0.077
+
+Total time: 	0.092
+
+Total time: 	0.149
+
+Total time: 	0.139
+
+Total time: 	0.100
+
+Total time: 	0.113
+
+Total time: 	0.168
+
+Total time: 	0.103
+
+Total time: 	0.158
+
+Total time: 	0.135
+
+Total time: 	0.137
+
+Total time: 	0.115
+
+Total time: 	0.159
+
+Total time: 	0.099
+
+Total time: 	0.186
+
+Total time: 	0.084
+
+Total time: 	0.122
+
+Total time: 	0.141
+
+Total time: 	0.100
+
+Total time: 	0.131
+
+Total time: 	0.145
+
+Total time: 	0.100
+
+Total time: 	0.097
+
+Total time: 	0.129
+
+Total time: 	0.096
+
+Total time: 	0.117
+
+Total time: 	0.161
+
+Total time: 	0.127
+
+Total time: 	0.126
+
+Total time: 	0.123
+
+Total time: 	0.092
+
+Total time: 	0.144
+
+Total time: 	0.167
+
+Total time: 	0.096
+
+Total time: 	0.129
+
+Total time: 	0.102
+
+Total time: 	0.109
+
+Total time: 	0.121
+
+Total time: 	0.188
+
+Total time: 	0.122
+
+Total time: 	0.115
+
+Total time: 	0.141
+
+Total time: 	0.115
+
+Total time: 	0.157
+
+Total time: 	0.120
+
+Total time: 	0.131
+
+Total time: 	0.106
+
+Total time: 	0.172
+
+Total time: 	0.107
+
+Total time: 	0.197
+
+Total time: 	0.140
+
+Total time: 	0.109
+
+Total time: 	0.136
+
+Total time: 	0.095
+
+Total time: 	0.104
+
+Total time: 	0.157
+
+Total time: 	0.134
+
+Total time: 	0.098
+
+Total time: 	0.118
+
+Total time: 	0.108
+
+Total time: 	0.083
+
+Total time: 	0.149
+
+Total time: 	0.108
+
+Total time: 	0.134
+
+Total time: 	0.121
+
+Total time: 	0.109
+
+Total time: 	0.135
+
+Total time: 	0.184
+
+Total time: 	0.167
+
+Total time: 	0.078
+
+Total time: 	0.090
+
+Total time: 	0.108
+
+Total time: 	0.175
+
+Total time: 	0.155
+
+Total time: 	0.155
+
+Total time: 	0.115
+
+Total time: 	0.098
+
+Total time: 	0.090
+
+Total time: 	0.205
+
+Total time: 	0.092
+
+Total time: 	0.104
+
+Total time: 	0.091
+
+Total time: 	0.107
+
+Total time: 	0.110
+
+Total time: 	0.182
+
+Total time: 	0.111
+
+Total time: 	0.109
+
+Total time: 	0.107
+
+Total time: 	0.125
+
+Total time: 	0.104
+
+Total time: 	0.099
+
+Total time: 	0.124
+
+Total time: 	0.131
+
+Total time: 	0.138
+
+Total time: 	0.119
+
+Total time: 	0.091
+
+Total time: 	0.109
+
+Total time: 	0.167
+
+Total time: 	0.096
+
+Total time: 	0.132
+
+Total time: 	0.104
+
+Total time: 	0.163
+
+Total time: 	0.173
+
+Total time: 	0.103
+
+Total time: 	0.091
+
+Total time: 	0.114
+
+Total time: 	0.135
+
+Total time: 	0.116
+
+Total time: 	0.126
+
+Total time: 	0.129
+
+Total time: 	0.116
+
+Total time: 	0.143
+
+Total time: 	0.103
+
+Total time: 	0.115
+
+Total time: 	0.121
+
+Total time: 	0.091
+
+Total time: 	0.085
+
+Total time: 	0.099
+
+Total time: 	0.097
+
+Total time: 	0.140
+
+Total time: 	0.115
+
+Total time: 	0.123
+
+Total time: 	0.160
+
+Total time: 	0.118
+
+Total time: 	0.109
+
+Total time: 	0.099
+
+Total time: 	0.125
+
+Total time: 	0.101
+
+Total time: 	0.111
+
+Total time: 	0.124
+
+Total time: 	0.103
+
+Total time: 	0.124
+
+Total time: 	0.116
+
+Total time: 	0.129
+
+Total time: 	0.125
+
+Total time: 	0.117
+
+Total time: 	0.085
+
+Total time: 	0.097
+
+Total time: 	0.126
+
+Total time: 	0.123
+
+Total time: 	0.147
+
+Total time: 	0.124
+
+Total time: 	0.096
+
+Total time: 	0.098
+
+Total time: 	0.152
+
+Total time: 	0.104
+
+Total time: 	0.144
+
+Total time: 	0.109
+
+Total time: 	0.115
+
+Total time: 	0.104
+
+Total time: 	0.123
+
+Total time: 	0.150
+
+Total time: 	0.133
+
+Total time: 	0.140
+
+Total time: 	0.110
+
+Total time: 	0.114
+
+Total time: 	0.096
+
+Total time: 	0.122
+
+Total time: 	0.128
+
+Total time: 	0.126
+
+Total time: 	0.155
+
+Total time: 	0.108
+
+Total time: 	0.092
+
+Total time: 	0.108
+
+Total time: 	0.156
+
+Total time: 	0.107
+
+Total time: 	0.171
+
+Total time: 	0.134
+
+Total time: 	0.100
+
+Total time: 	0.117
+
+Total time: 	0.144
+
+Total time: 	0.119
+
+Total time: 	0.117
+
+Total time: 	0.145
+
+Total time: 	0.120
+
+Total time: 	0.194
+
+Total time: 	0.135
+
+Total time: 	0.106
+
+Total time: 	0.116
+
+Total time: 	0.121
+
+Total time: 	0.144
+
+Total time: 	0.181
+
+Total time: 	0.089
+
+Total time: 	0.095
+
+Total time: 	0.096
+
+Total time: 	0.194
+
+Total time: 	0.145
+
+Total time: 	0.091
+
+Total time: 	0.096
+
+Total time: 	0.103
+
+Total time: 	0.118
+
+Total time: 	0.139
+
+Total time: 	0.156
+
+Total time: 	0.133
+
+Total time: 	0.093
+
+Total time: 	0.100
+
+Total time: 	0.101
+
+Total time: 	0.096
+
+Total time: 	0.141
+
+Total time: 	0.110
+
+Total time: 	0.131
+
+Total time: 	0.107
+
+Total time: 	0.103
+
+Total time: 	0.118
+
+Total time: 	0.141
+
+Total time: 	0.130
+
+Total time: 	0.129
+
+Total time: 	0.121
+
+Total time: 	0.136
+
+Total time: 	0.106
+
+Total time: 	0.141
+
+Total time: 	0.085
+
+Total time: 	0.174
+
+Total time: 	0.083
+
+Total time: 	0.128
+
+Total time: 	0.095
+
+Total time: 	0.107
+
+Total time: 	0.139
+
+Total time: 	0.140
+
+Total time: 	0.096
+
+Total time: 	0.157
+
+Total time: 	0.111
+
+Total time: 	0.088
+
+Total time: 	0.105
+
+Total time: 	0.124
+
+Total time: 	0.100
+
+Total time: 	0.133
+
+Total time: 	0.114
+
+Total time: 	0.172
+
+Total time: 	0.141
+
+Total time: 	0.184
+
+Total time: 	0.162
+
+Total time: 	0.139
+
+Total time: 	0.115
+
+Total time: 	0.105
+
+Total time: 	0.162
+
+Total time: 	0.128
+
+Total time: 	0.110
+
+Total time: 	0.096
+
+Total time: 	0.144
+
+Total time: 	0.182
+
+Total time: 	0.126
+
+Total time: 	0.096
+
+Total time: 	0.123
+
+Total time: 	0.097
+
+Total time: 	0.104
+
+Total time: 	0.112
+
+Total time: 	0.119
+
+Total time: 	0.138
+
+Total time: 	0.127
+
+Total time: 	0.098
+
+Total time: 	0.099
+
+Total time: 	0.129
+
+Total time: 	0.126
+
+Total time: 	0.148
+
+Total time: 	0.105
+
+Total time: 	0.111
+
+Total time: 	0.107
+
+Total time: 	0.112
+
+Total time: 	0.106
+
+Total time: 	0.115
+
+Total time: 	0.122
+
+Total time: 	0.144
+
+Total time: 	0.111
+
+Total time: 	0.112
+
+Total time: 	0.202
+
+Total time: 	0.114
+
+Total time: 	0.105
+
+Total time: 	0.128
+
+Total time: 	0.120
+
+Total time: 	0.160
+
+Total time: 	0.094
+
+Total time: 	0.106
+
+Total time: 	0.130
+
+Total time: 	0.089
+
+Total time: 	0.123
+
+Total time: 	0.165
+
+Total time: 	0.180
+
+Total time: 	0.113
+
+Total time: 	0.095
+
+Total time: 	0.114
+
+Total time: 	0.122
+
+Total time: 	0.099
+
+Total time: 	0.115
+
+Total time: 	0.136
+
+Total time: 	0.137
+
+Total time: 	0.126
+
+Total time: 	0.081
+
+Total time: 	0.078
+
+Total time: 	0.078
+
+Total time: 	0.111
+
+Total time: 	0.079
+
+Total time: 	0.077
+
+Total time: 	0.078
+
+Total time: 	0.076
+
+Total time: 	0.074
+
+Total time: 	0.089
+
+Total time: 	0.139
+
+Total time: 	0.130
+
+Total time: 	0.115
+
+Total time: 	0.142
+
+Total time: 	0.148
+
+Total time: 	0.098
+
+Total time: 	0.099
+
+Total time: 	0.094
+
+Total time: 	0.117
+
+Total time: 	0.094
+
+Total time: 	0.161
+
+Total time: 	0.116
+
+Total time: 	0.102
+
+Total time: 	0.131
+
+Total time: 	0.097
+
+Total time: 	0.102
+
+Total time: 	0.172
+
+Total time: 	0.146
+
+Total time: 	0.113
+
+Total time: 	0.101
+
+Total time: 	0.136
+
+Total time: 	0.124
+
+Total time: 	0.141
+
+Total time: 	0.125
+
+Total time: 	0.093
+
+Total time: 	0.130
+
+Total time: 	0.117
+
+Total time: 	0.184
+
+Total time: 	0.178
+
+Total time: 	0.111
+
+Total time: 	0.137
+
+Total time: 	0.161
+
+Total time: 	0.132
+
+Total time: 	0.151
+
+Total time: 	0.125
+
+Total time: 	0.108
+
+Total time: 	0.104
+
+Total time: 	0.096
+
+Total time: 	0.091
+
+Total time: 	0.203
+
+Total time: 	0.101
+
+Total time: 	0.106
+
+Total time: 	0.107
+
+Total time: 	0.114
+
+Total time: 	0.118
+
+Total time: 	0.210
+
+Total time: 	0.098
+
+Total time: 	0.107
+
+Total time: 	0.124
+
+Total time: 	0.117
+
+Total time: 	0.130
+
+Total time: 	0.115
+
+Total time: 	0.107
+
+Total time: 	0.121
+
+Total time: 	0.094
+
+Total time: 	0.086
+
+Total time: 	0.137
+
+Total time: 	0.090
+
+Total time: 	0.151
+
+Total time: 	0.123
+
+Total time: 	0.108
+
+Total time: 	0.090
+
+Total time: 	0.128
+
+Total time: 	0.105
+
+Total time: 	0.141
+
+Total time: 	0.158
+
+Total time: 	0.128
+
+Total time: 	0.118
+
+Total time: 	0.132
+
+Total time: 	0.178
+
+Total time: 	0.126
+
+Total time: 	0.097
+
+Total time: 	0.149
+
+Total time: 	0.108
+
+Total time: 	0.118
+
+Total time: 	0.176
+
+Total time: 	0.135
+
+Total time: 	0.123
+
+Total time: 	0.132
+
+Total time: 	0.116
+
+Total time: 	0.093
+
+Total time: 	0.127
+
+Total time: 	0.083
+
+Total time: 	0.105
+
+Total time: 	0.098
+
+Total time: 	0.142
+
+Total time: 	0.122
+
+Total time: 	0.181
+
+Total time: 	0.129
+
+Total time: 	0.153
+
+Total time: 	0.121
+
+Total time: 	0.104
+
+Total time: 	0.121
+
+Total time: 	0.108
+
+Total time: 	0.115
+
+Total time: 	0.137
+
+Total time: 	0.121
+
+Total time: 	0.127
+
+Total time: 	0.104
+
+Total time: 	0.113
+
+Total time: 	0.121
+
+Total time: 	0.089
+
+Total time: 	0.139
+
+Total time: 	0.111
+
+Total time: 	0.162
+
+Total time: 	0.158
+
+Total time: 	0.089
+
+Total time: 	0.110
+
+Total time: 	0.091
+
+Total time: 	0.112
+
+Total time: 	0.096
+
+Total time: 	0.163
+
+Total time: 	0.117
+
+Total time: 	0.103
+
+Total time: 	0.099
+
+Total time: 	0.156
+
+Total time: 	0.142
+
+Total time: 	0.193
+
+Total time: 	0.141
+
+Total time: 	0.099
+
+Total time: 	0.122
+
+Total time: 	0.091
+
+Total time: 	0.093
+
+Total time: 	0.177
+
+Total time: 	0.124
+
+Total time: 	0.096
+
+Total time: 	0.110
+
+Total time: 	0.109
+
+Total time: 	0.105
+
+Total time: 	0.139
+
+Total time: 	0.142
+
+Total time: 	0.137
+
+Total time: 	0.153
+
+Total time: 	0.114
+
+Total time: 	0.135
+
+Total time: 	0.098
+
+Total time: 	0.112
+
+Total time: 	0.147
+
+Total time: 	0.141
+
+Total time: 	0.161
+
+Total time: 	0.140
+
+Total time: 	0.144
+
+Total time: 	0.123
+
+Total time: 	0.106
+
+Total time: 	0.096
+
+Total time: 	0.118
+
+Total time: 	0.097
+
+Total time: 	0.132
+
+Total time: 	0.087
+
+Total time: 	0.134
+
+Total time: 	0.130
+
+Total time: 	0.126
+
+Total time: 	0.133
+
+Total time: 	0.165
+
+Total time: 	0.113
+
+Total time: 	0.106
+
+Total time: 	0.105
+
+Total time: 	0.103
+
+Total time: 	0.137
+
+Total time: 	0.174
+
+Total time: 	0.111
+
+Total time: 	0.126
+
+Total time: 	0.134
+
+Total time: 	0.098
+
+Total time: 	0.165
+
+Total time: 	0.168
+
+Total time: 	0.142
+
+Total time: 	0.103
+
+Total time: 	0.098
+
+Total time: 	0.109
+
+Total time: 	0.156
+
+Total time: 	0.130
+
+Total time: 	0.123
+
+Total time: 	0.118
+
+Total time: 	0.119
+
+Total time: 	0.112
+
+Total time: 	0.154
+
+Total time: 	0.082
+
+Total time: 	0.105
+
+Total time: 	0.123
+
+Total time: 	0.130
+
+Total time: 	0.113
+
+Total time: 	0.136
+
+Total time: 	0.152
+
+Total time: 	0.152
+
+Total time: 	0.164
+
+Total time: 	0.100
+
+Total time: 	0.107
+
+Total time: 	0.177
+
+Total time: 	0.109
+
+Total time: 	0.126
+
+Total time: 	0.089
+
+Total time: 	0.114
+
+Total time: 	0.101
+
+Total time: 	0.181
+
+Total time: 	0.114
+
+Total time: 	0.153
+
+Total time: 	0.110
+
+Total time: 	0.084
+
+Total time: 	0.085
+
+Total time: 	0.181
+
+Total time: 	0.103
+
+Total time: 	0.100
+
+Total time: 	0.091
+
+Total time: 	0.095
+
+Total time: 	0.105
+
+Total time: 	0.181
+
+Total time: 	0.132
+
+Total time: 	0.119
+
+Total time: 	0.120
+
+Total time: 	0.122
+
+Total time: 	0.120
+
+Total time: 	0.145
+
+Total time: 	0.132
+
+Total time: 	0.107
+
+Total time: 	0.093
+
+Total time: 	0.141
+
+Total time: 	0.096
+
+Total time: 	0.186
+
+Total time: 	0.115
+
+Total time: 	0.114
+
+Total time: 	0.157
+
+Total time: 	0.091
+
+Total time: 	0.087
+
+Total time: 	0.162
+
+Total time: 	0.104
+
+Total time: 	0.102
+
+Total time: 	0.119
+
+Total time: 	0.118
+
+Total time: 	0.102
+
+Total time: 	0.149
+
+Total time: 	0.157
+
+Total time: 	0.097
+
+Total time: 	0.102
+
+Total time: 	0.123
+
+Total time: 	0.090
+
+Total time: 	0.161
+
+Total time: 	0.126
+
+Total time: 	0.138
+
+Total time: 	0.104
+
+Total time: 	0.136
+
+Total time: 	0.147
+
+Total time: 	0.181
+
+Total time: 	0.100
+
+Total time: 	0.111
+
+Total time: 	0.111
+
+Total time: 	0.108
+
+Total time: 	0.156
+
+Total time: 	0.162
+
+Total time: 	0.128
+
+Total time: 	0.119
+
+Total time: 	0.116
+
+Total time: 	0.114
+
+Total time: 	0.097
+
+Total time: 	0.200
+
+Total time: 	0.146
+
+Total time: 	0.138
+
+Total time: 	0.116
+
+Total time: 	0.110
+
+Total time: 	0.109
+
+Total time: 	0.148
+
+Total time: 	0.096
+
+Total time: 	0.095
+
+Total time: 	0.091
+
+Total time: 	0.111
+
+Total time: 	0.099
+
+Total time: 	0.233
+
+Total time: 	0.097
+
+Total time: 	0.111
+
+Total time: 	0.110
+
+Total time: 	0.136
+
+Total time: 	0.163
+
+Total time: 	0.130
+
+Total time: 	0.097
+
+Total time: 	0.096
+
+Total time: 	0.105
+
+Total time: 	0.096
+
+Total time: 	0.123
+
+Total time: 	0.191
+
+Total time: 	0.133
+
+Total time: 	0.126
+
+Total time: 	0.120
+
+Total time: 	0.087
+
+Total time: 	0.119
+
+Total time: 	0.185
+
+Total time: 	0.099
+
+Total time: 	0.099
+
+Total time: 	0.098
+
+Total time: 	0.098
+
+Total time: 	0.087
+
+Total time: 	0.150
+
+Total time: 	0.101
+
+Total time: 	0.135
+
+Total time: 	0.132
+
+Total time: 	0.106
+
+Total time: 	0.127
+
+Total time: 	0.153
+
+Total time: 	0.114
+
+Total time: 	0.110
+
+Total time: 	0.090
+
+Total time: 	0.099
+
+Total time: 	0.098
+
+Total time: 	0.120
+
+Total time: 	0.165
+
+Total time: 	0.107
+
+Total time: 	0.106
+
+Total time: 	0.117
+
+Total time: 	0.130
+
+Total time: 	0.138
+
+Total time: 	0.121
+
+Total time: 	0.115
+
+Total time: 	0.178
+
+Total time: 	0.124
+
+Total time: 	0.170
+
+Total time: 	0.195
+
+Total time: 	0.116
+
+Total time: 	0.102
+
+Total time: 	0.116
+
+Total time: 	0.110
+
+Total time: 	0.098
+
+Total time: 	0.177
+
+Total time: 	0.101
+
+Total time: 	0.123
+
+Total time: 	0.104
+
+Total time: 	0.139
+
+Total time: 	0.154
+
+Total time: 	0.122
+
+Total time: 	0.129
+
+Total time: 	0.090
+
+Total time: 	0.094
+
+Total time: 	0.133
+
+Total time: 	0.111
+
+Total time: 	0.162
+
+Total time: 	0.109
+
+Total time: 	0.102
+
+Total time: 	0.116
+
+Total time: 	0.129
+
+Total time: 	0.118
+
+Total time: 	0.210
+
+Total time: 	0.099
+
+Total time: 	0.109
+
+Total time: 	0.119
+
+Total time: 	0.158
+
+Total time: 	0.159
+
+Total time: 	0.127
+
+Total time: 	0.111
+
+Total time: 	0.128
+
+Total time: 	0.116
+
+Total time: 	0.126
+
+Total time: 	0.251
+
+Total time: 	0.110
+
+Total time: 	0.097
+
+Total time: 	0.234
+
+Total time: 	0.142
+
+Total time: 	0.156
+
+Total time: 	0.082
+
+Total time: 	0.167
+
+Total time: 	0.135
+
+Total time: 	0.086
+
+Total time: 	0.191
+
+Total time: 	0.125
+
+Total time: 	0.080
+
+Total time: 	0.115
+
+Total time: 	0.094
+
+Total time: 	0.107
+
+Total time: 	0.126
+
+Total time: 	0.207
+
+Total time: 	0.152
+
+Total time: 	0.137
+
+Total time: 	0.111
+
+Total time: 	0.137
+
+Total time: 	0.131
+
+Total time: 	0.144
+
+Total time: 	0.107
+
+Total time: 	0.094
+
+Total time: 	0.111
+
+Total time: 	0.110
+
+Total time: 	0.138
+
+Total time: 	0.110
+
+Total time: 	0.112
+
+Total time: 	0.130
+
+Total time: 	0.104
+
+Total time: 	0.139
+
+Total time: 	0.141
+
+Total time: 	0.115
+
+Total time: 	0.101
+
+Total time: 	0.112
+
+Total time: 	0.136
+
+Total time: 	0.133
+
+Total time: 	0.122
+
+Total time: 	0.153
+
+Total time: 	0.104
+
+Total time: 	0.166
+
+Total time: 	0.112
+
+Total time: 	0.125
+
+Total time: 	0.161
+
+Total time: 	0.142
+
+Total time: 	0.103
+
+Total time: 	0.110
+
+Total time: 	0.098
+
+Total time: 	0.108
+
+Total time: 	0.161
+
+Total time: 	0.142
+
+Total time: 	0.145
+
+Total time: 	0.126
+
+Total time: 	0.133
+
+Total time: 	0.156
+
+Total time: 	0.156
+
+Total time: 	0.123
+
+Total time: 	0.121
+
+Total time: 	0.117
+
+Total time: 	0.099
+
+Total time: 	0.184
+
+Total time: 	0.139
+
+Total time: 	0.096
+
+Total time: 	0.095
+
+Total time: 	0.124
+
+Total time: 	0.125
+
+Total time: 	0.182
+
+Total time: 	0.098
+
+Total time: 	0.100
+
+Total time: 	0.101
+
+Total time: 	0.106
+
+Total time: 	0.126
+
+Total time: 	0.167
+
+Total time: 	0.108
+
+Total time: 	0.092
+
+Total time: 	0.117
+
+Total time: 	0.100
+
+Total time: 	0.101
+
+Total time: 	0.125
+
+Total time: 	0.162
+
+Total time: 	0.100
+
+Total time: 	0.112
+
+Total time: 	0.143
+
+Total time: 	0.119
+
+Total time: 	0.210
+
+Total time: 	0.135
+
+Total time: 	0.116
+
+Total time: 	0.099
+
+Total time: 	0.105
+
+Total time: 	0.103
+
+Total time: 	0.186
+
+Total time: 	0.099
+
+Total time: 	0.143
+
+Total time: 	0.092
+
+Total time: 	0.157
+
+Total time: 	0.081
+
+Total time: 	0.158
+
+Total time: 	0.119
+
+Total time: 	0.105
+
+Total time: 	0.099
+
+Total time: 	0.086
+
+Total time: 	0.101
+
+Total time: 	0.137
+
+Total time: 	0.187
+
+Total time: 	0.091
+
+Total time: 	0.116
+
+Total time: 	0.118
+
+Total time: 	0.108
+
+Total time: 	0.177
+
+Total time: 	0.149
+
+Total time: 	0.085
+
+Total time: 	0.097
+
+Total time: 	0.153
+
+Total time: 	0.081
+
+Total time: 	0.205
+
+Total time: 	0.106
+
+Total time: 	0.096
+
+Total time: 	0.145
+
+Total time: 	0.092
+
+Total time: 	0.135
+
+Total time: 	0.172
+
+Total time: 	0.119
+
+Total time: 	0.110
+
+Total time: 	0.112
+
+Total time: 	0.103
+
+Total time: 	0.087
+
+Total time: 	0.145
+
+Total time: 	0.145
+
+Total time: 	0.086
+
+Total time: 	0.112
+
+Total time: 	0.104
+
+Total time: 	0.103
+
+Total time: 	0.100
+
+Total time: 	0.174
+
+Total time: 	0.108
+
+Total time: 	0.086
+
+Total time: 	0.097
+
+Total time: 	0.103
+
+Total time: 	0.112
+
+Total time: 	0.190
+
+Total time: 	0.104
+
+Total time: 	0.117
+
+Total time: 	0.122
+
+Total time: 	0.133
+
+Total time: 	0.098
+
+Total time: 	0.194
+
+Total time: 	0.094
+
+Total time: 	0.098
+
+Total time: 	0.111
+
+Total time: 	0.112
+
+Total time: 	0.102
+
+Total time: 	0.153
+
+Total time: 	0.142
+
+Total time: 	0.123
+
+Total time: 	0.104
+
+Total time: 	0.112
+
+Total time: 	0.123
+
+Total time: 	0.137
+
+Total time: 	0.111
+
+Total time: 	0.081
+
+Total time: 	0.125
+
+Total time: 	0.100
+
+Total time: 	0.133
+
+Total time: 	0.159
+
+Total time: 	0.118
+
+Total time: 	0.131
+
+Total time: 	0.108
+
+Total time: 	0.104
+
+Total time: 	0.123
+
+Total time: 	0.142
+
+Total time: 	0.147
+
+Total time: 	0.103
+
+Total time: 	0.097
+
+Total time: 	0.169
+
+Total time: 	0.145
+
+Total time: 	0.156
+
+Total time: 	0.099
+
+Total time: 	0.124
+
+Total time: 	0.093
+
+Total time: 	0.111
+
+Total time: 	0.096
+
+Total time: 	0.146
+
+Total time: 	0.107
+
+Total time: 	0.118
+
+Total time: 	0.110
+
+Total time: 	0.099
+
+Total time: 	0.111
+
+Total time: 	0.154
+
+Total time: 	0.112
+
+Total time: 	0.110
+
+Total time: 	0.109
+
+Total time: 	0.105
+
+Total time: 	0.099
+
+Total time: 	0.175
+
+Total time: 	0.110
+
+Total time: 	0.138
+
+Total time: 	0.140
+
+Total time: 	0.088
+
+Total time: 	0.095
+
+Total time: 	0.144
+
+Total time: 	0.145
+
+Total time: 	0.152
+
+Total time: 	0.093
+
+Total time: 	0.098
+
+Total time: 	0.142
+
+Total time: 	0.174
+
+Total time: 	0.100
+
+Total time: 	0.132
+
+Total time: 	0.128
+
+Total time: 	0.126
+
+Total time: 	0.108
+
+Total time: 	0.115
+
+Total time: 	0.094
+
+Total time: 	0.105
+
+Total time: 	0.099
+
+Total time: 	0.118
+
+Total time: 	0.112
+
+Total time: 	0.149
+
+Total time: 	0.123
+
+Total time: 	0.114
+
+Total time: 	0.126
+
+Total time: 	0.122
+
+Total time: 	0.086
+
+Total time: 	0.184
+
+Total time: 	0.137
+
+Total time: 	0.133
+
+Total time: 	0.102
+
+Total time: 	0.086
+
+Total time: 	0.102
+
+Total time: 	0.139
+
+Total time: 	0.125
+
+Total time: 	0.116
+
+Total time: 	0.115
+
+Total time: 	0.109
+
+Total time: 	0.127
+
+Total time: 	0.177
+
+Total time: 	0.134
+
+Total time: 	0.153
+
+Total time: 	0.098
+
+Total time: 	0.117
+
+Total time: 	0.084
+
+Total time: 	0.209
+
+Total time: 	0.115
+
+Total time: 	0.106
+
+Total time: 	0.105
+
+Total time: 	0.172
+
+Total time: 	0.094
+
+Total time: 	0.150
+
+Total time: 	0.112
+
+Total time: 	0.093
+
+Total time: 	0.134
+
+Total time: 	0.147
+
+Total time: 	0.109
+
+Total time: 	0.171
+
+Total time: 	0.108
+
+Total time: 	0.091
+
+Total time: 	0.124
+
+Total time: 	0.119
+
+Total time: 	0.094
+
+Total time: 	0.162
+
+Total time: 	0.143
+
+Total time: 	0.099
+
+Total time: 	0.123
+
+Total time: 	0.080
+
+Total time: 	0.249
+
+Total time: 	0.123
+
+Total time: 	0.116
+
+Total time: 	0.106
+
+Total time: 	0.118
+
+Total time: 	0.100
+
+Total time: 	0.103
+
+Total time: 	0.121
+
+Total time: 	0.154
+
+Total time: 	0.087
+
+Total time: 	0.096
+
+Total time: 	0.090
+
+Total time: 	0.136
+
+Total time: 	0.088
+
+Total time: 	0.095
+
+Total time: 	0.083
+
+Total time: 	0.081
+
+Total time: 	0.111
+
+Total time: 	0.108
+
+Total time: 	0.101
+
+Total time: 	0.163
+
+Total time: 	0.196
+
+Total time: 	0.107
+
+Total time: 	0.268
+
+Total time: 	0.089
+
+Total time: 	0.173
+
+Total time: 	0.115
+
+Total time: 	0.115
+
+Total time: 	0.087
+
+Total time: 	0.093
+
+Total time: 	0.114
+
+Total time: 	0.114
+
+Total time: 	0.140
+
+Total time: 	0.153
+
+Total time: 	0.096
+
+Total time: 	0.115
+
+Total time: 	0.102
+
+Total time: 	0.179
+
+Total time: 	0.088
+
+Total time: 	0.088
+
+Total time: 	0.094
+
+Total time: 	0.127
+
+Total time: 	0.110
+
+Total time: 	0.162
+
+Total time: 	0.079
+
+Total time: 	0.096
+
+Total time: 	0.117
+
+Total time: 	0.151
+
+Total time: 	0.106
+
+Total time: 	0.131
+
+Total time: 	0.107
+
+Total time: 	0.146
+
+Total time: 	0.102
+
+Total time: 	0.098
+
+Total time: 	0.115
+
+Total time: 	0.137
+
+Total time: 	0.142
+
+Total time: 	0.106
+
+Total time: 	0.102
+
+Total time: 	0.111
+
+Total time: 	0.112
+
+Total time: 	0.089
+
+Total time: 	0.184
+
+Total time: 	0.091
+
+Total time: 	0.108
+
+Total time: 	0.108
+
+Total time: 	0.124
+
+Total time: 	0.116
+
+Total time: 	0.110
+
+Total time: 	0.096
+
+Total time: 	0.169
+
+Total time: 	0.116
+
+Total time: 	0.107
+
+Total time: 	0.099
+
+Total time: 	0.166
+
+Total time: 	0.133
+
+Total time: 	0.090
+
+Total time: 	0.128
+
+Total time: 	0.097
+
+Total time: 	0.133
+
+Total time: 	0.161
+
+Total time: 	0.138
+
+Total time: 	0.109
+
+Total time: 	0.110
+
+Total time: 	0.095
+
+Total time: 	0.088
+
+Total time: 	0.152
+
+Total time: 	0.129
+
+Total time: 	0.113
+
+Total time: 	0.111
+
+Total time: 	0.118
+
+Total time: 	0.081
+
+Total time: 	0.089
+
+Total time: 	0.120
+
+Total time: 	0.113
+
+Total time: 	0.103
+
+Total time: 	0.094
+
+Total time: 	0.079
+
+Total time: 	0.150
+
+Total time: 	0.185
+
+Total time: 	0.132
+
+Total time: 	0.119
+
+Total time: 	0.140
+
+Total time: 	0.092
+
+Total time: 	0.107
+
+Total time: 	0.156
+
+Total time: 	0.146
+
+Total time: 	0.143
+
+Total time: 	0.124
+
+Total time: 	0.090
+
+Total time: 	0.088
+
+Total time: 	0.203
+
+Total time: 	0.082
+
+Total time: 	0.134
+
+Total time: 	0.116
+
+Total time: 	0.100
+
+Total time: 	0.102
+
+Total time: 	0.135
+
+Total time: 	0.131
+
+Total time: 	0.139
+
+Total time: 	0.099
+
+Total time: 	0.100
+
+Total time: 	0.088
+
+Total time: 	0.197
+
+Total time: 	0.107
+
+Total time: 	0.111
+
+Total time: 	0.122
+
+Total time: 	0.129
+
+Total time: 	0.165
+
+Total time: 	0.129
+
+Total time: 	0.110
+
+Total time: 	0.132
+
+Total time: 	0.137
+
+Total time: 	0.114
+
+Total time: 	0.131
+
+Total time: 	0.133
+
+Total time: 	0.095
+
+Total time: 	0.130
+
+Total time: 	0.106
+
+Total time: 	0.099
+
+Total time: 	0.098
+
+Total time: 	0.140
+
+Total time: 	0.161
+
+Total time: 	0.139
+
+Total time: 	0.120
+
+Total time: 	0.104
+
+Total time: 	0.138
+
+Total time: 	0.188
+
+Total time: 	0.113
+
+Total time: 	0.097
+
+Total time: 	0.102
+
+Total time: 	0.127
+
+Total time: 	0.154
+
+Total time: 	0.134
+
+Total time: 	0.113
+
+Total time: 	0.117
+
+Total time: 	0.104
+
+Total time: 	0.102
+
+Total time: 	0.165
+
+Total time: 	0.151
+
+Total time: 	0.120
+
+Total time: 	0.144
+
+Total time: 	0.124
+
+Total time: 	0.105
+
+Total time: 	0.140
+
+Total time: 	0.129
+
+Total time: 	0.125
+
+Total time: 	0.125
+
+Total time: 	0.096
+
+Total time: 	0.138
+
+Total time: 	0.147
+
+Total time: 	0.132
+
+Total time: 	0.153
+
+Total time: 	0.096
+
+Total time: 	0.099
+
+Total time: 	0.113
+
+Total time: 	0.201
+
+Total time: 	0.127
+
+Total time: 	0.092
+
+Total time: 	0.112
+
+Total time: 	0.147
+
+Total time: 	0.107
+
+Total time: 	0.205
+
+Total time: 	0.093
+
+Total time: 	0.121
+
+Total time: 	0.113
+
+Total time: 	0.107
+
+Total time: 	0.127
+
+Total time: 	0.203
+
+Total time: 	0.095
+
+Total time: 	0.124
+
+Total time: 	0.122
+
+Total time: 	0.096
+
+Total time: 	0.210
+
+Total time: 	0.138
+
+Total time: 	0.131
+
+Total time: 	0.101
+
+Total time: 	0.138
+
+Total time: 	0.112
+
+Total time: 	0.187
+
+Total time: 	0.135
+
+Total time: 	0.122
+
+Total time: 	0.094
+
+Total time: 	0.126
+
+Total time: 	0.097
+
+Total time: 	0.152
+
+Total time: 	0.119
+
+Total time: 	0.119
+
+Total time: 	0.151
+
+Total time: 	0.114
+
+Total time: 	0.101
+
+Total time: 	0.116
+
+Total time: 	0.112
+
+Total time: 	0.094
+
+Total time: 	0.106
+
+Total time: 	0.091
+
+Total time: 	0.129
+
+Total time: 	0.168
+
+Total time: 	0.148
+
+Total time: 	0.117
+
+Total time: 	0.135
+
+Total time: 	0.123
+
+Total time: 	0.114
+
+Total time: 	0.108
+
+Total time: 	0.104
+
+Total time: 	0.121
+
+Total time: 	0.151
+
+Total time: 	0.094
+
+Total time: 	0.104
+
+Total time: 	0.153
+
+Total time: 	0.126
+
+Total time: 	0.113
+
+Total time: 	0.104
+
+Total time: 	0.127
+
+Total time: 	0.121
+
+Total time: 	0.096
+
+Total time: 	0.110
+
+Total time: 	0.120
+
+Total time: 	0.104
+
+Total time: 	0.113
+
+Total time: 	0.153
+
+Total time: 	0.159
+
+Total time: 	0.139
+
+Total time: 	0.108
+
+Total time: 	0.096
+
+Total time: 	0.113
+
+Total time: 	0.123
+
+Total time: 	0.139
+
+Total time: 	0.137
+
+Total time: 	0.142
+
+Total time: 	0.103
+
+Total time: 	0.088
+
+Total time: 	0.147
+
+Total time: 	0.133
+
+Total time: 	0.113
+
+Total time: 	0.098
+
+Total time: 	0.135
+
+Total time: 	0.144
+
+Total time: 	0.117
+
+Total time: 	0.185
+
+Total time: 	0.114
+
+Total time: 	0.116
+
+Total time: 	0.111
+
+Total time: 	0.112
+
+Total time: 	0.110
+
+Total time: 	0.168
+
+Total time: 	0.116
+
+Total time: 	0.102
+
+Total time: 	0.128
+
+Total time: 	0.114
+
+Total time: 	0.113
+
+Total time: 	0.161
+
+Total time: 	0.134
+
+Total time: 	0.125
+
+Total time: 	0.104
+
+Total time: 	0.095
+
+Total time: 	0.126
+
+Total time: 	0.189
+
+Total time: 	0.145
+
+Total time: 	0.107
+
+Total time: 	0.120
+
+Total time: 	0.095
+
+Total time: 	0.134
+
+Total time: 	0.154
+
+Total time: 	0.121
+
+Total time: 	0.103
+
+Total time: 	0.107
+
+Total time: 	0.152
+
+Total time: 	0.142
+
+Total time: 	0.174
+
+Total time: 	0.124
+
+Total time: 	0.124
+
+Total time: 	0.116
+
+Total time: 	0.144
+
+Total time: 	0.112
+
+Total time: 	0.112
+
+Total time: 	0.115
+
+Total time: 	0.115
+
+Total time: 	0.109
+
+Total time: 	0.124
+
+Total time: 	0.140
+
+Total time: 	0.173
+
+Total time: 	0.128
+
+Total time: 	0.108
+
+Total time: 	0.113
+
+Total time: 	0.087
+
+Total time: 	0.110
+
+Total time: 	0.253
+
+Total time: 	0.126
+
+Total time: 	0.131
+
+Total time: 	0.144
+
+Total time: 	0.136
+
+Total time: 	0.179
+
+Total time: 	0.100
+
+Total time: 	0.114
+
+Total time: 	0.103
+
+Total time: 	0.121
+
+Total time: 	0.120
+
+Total time: 	0.113
+
+Total time: 	0.092
+
+Total time: 	0.102
+
+Total time: 	0.108
+
+Total time: 	0.116
+
+Total time: 	0.100
+
+Total time: 	0.124
+
+Total time: 	0.143
+
+Total time: 	0.148
+
+Total time: 	0.154
+
+Total time: 	0.109
+
+Total time: 	0.133
+
+Total time: 	0.204
+
+Total time: 	0.108
+
+Total time: 	0.129
+
+Total time: 	0.101
+
+Total time: 	0.103
+
+Total time: 	0.128
+
+Total time: 	0.173
+
+Total time: 	0.125
+
+Total time: 	0.147
+
+Total time: 	0.102
+
+Total time: 	0.092
+
+Total time: 	0.116
+
+Total time: 	0.102
+
+Total time: 	0.131
+
+Total time: 	0.102
+
+Total time: 	0.108
+
+Total time: 	0.097
+
+Total time: 	0.104
+
+Total time: 	0.139
+
+Total time: 	0.163
+
+Total time: 	0.109
+
+Total time: 	0.101
+
+Total time: 	0.106
+
+Total time: 	0.119
+
+Total time: 	0.144
+
+Total time: 	0.106
+
+Total time: 	0.097
+
+Total time: 	0.112
+
+Total time: 	0.117
+
+Total time: 	0.141
+
+Total time: 	0.172
+
+Total time: 	0.130
+
+Total time: 	0.101
+
+Total time: 	0.086
+
+Total time: 	0.122
+
+Total time: 	0.104
+
+Total time: 	0.133
+
+Total time: 	0.085
+
+Total time: 	0.076
+
+Total time: 	0.128
+
+Total time: 	0.136
+
+Total time: 	0.119
+
+Total time: 	0.113
+
+Total time: 	0.198
+
+Total time: 	0.120
+
+Total time: 	0.110
+
+Total time: 	0.100
+
+Total time: 	0.111
+
+Total time: 	0.121
+
+Total time: 	0.090
+
+Total time: 	0.139
+
+Total time: 	0.124
+
+Total time: 	0.088
+
+Total time: 	0.081
+
+Total time: 	0.122
+
+Total time: 	0.145
+
+Total time: 	0.117
+
+Total time: 	0.161
+
+Total time: 	0.127
+
+Total time: 	0.097
+
+Total time: 	0.117
+
+Total time: 	0.105
+
+Total time: 	0.119
+
+Total time: 	0.154
+
+Total time: 	0.154
+
+Total time: 	0.115
+
+Total time: 	0.142
+
+Total time: 	0.111
+
+Total time: 	0.101
+
+Total time: 	0.187
+
+Total time: 	0.153
+
+Total time: 	0.108
+
+Total time: 	0.105
+
+Total time: 	0.105
+
+Total time: 	0.135
+
+Total time: 	0.171
+
+Total time: 	0.098
+
+Total time: 	0.128
+
+Total time: 	0.120
+
+Total time: 	0.100
+
+Total time: 	0.139
+
+Total time: 	0.166
+
+Total time: 	0.090
+
+Total time: 	0.118
+
+Total time: 	0.112
+
+Total time: 	0.118
+
+Total time: 	0.136
+
+Total time: 	0.134
+
+Total time: 	0.112
+
+Total time: 	0.088
+
+Total time: 	0.089
+
+Total time: 	0.113
+
+Total time: 	0.147
+
+Total time: 	0.144
+
+Total time: 	0.106
+
+Total time: 	0.096
+
+Total time: 	0.118
+
+Total time: 	0.089
+
+Total time: 	0.116
+
+Total time: 	0.208
+
+Total time: 	0.160
+
+Total time: 	0.099
+
+Total time: 	0.104
+
+Total time: 	0.104
+
+Total time: 	0.127
+
+Total time: 	0.097
+
+Total time: 	0.143
+
+Total time: 	0.104
+
+Total time: 	0.109
+
+Total time: 	0.107
+
+Total time: 	0.157
+
+Total time: 	0.170
+
+Total time: 	0.123
+
+Total time: 	0.093
+
+Total time: 	0.111
+
+Total time: 	0.124
+
+Total time: 	0.107
+
+Total time: 	0.194
+
+Total time: 	0.154
+
+Total time: 	0.105
+
+Total time: 	0.119
+
+Total time: 	0.111
+
+Total time: 	0.176
+
+Total time: 	0.151
+
+Total time: 	0.117
+
+Total time: 	0.113
+
+Total time: 	0.112
+
+Total time: 	0.120
+
+Total time: 	0.091
+
+Total time: 	0.148
+
+Total time: 	0.091
+
+Total time: 	0.146
+
+Total time: 	0.112
+
+Total time: 	0.110
+
+Total time: 	0.108
+
+Total time: 	0.134
+
+Total time: 	0.134
+
+Total time: 	0.110
+
+Total time: 	0.145
+
+Total time: 	0.104
+
+Total time: 	0.106
+
+Total time: 	0.154
+
+Total time: 	0.120
+
+Total time: 	0.123
+
+Total time: 	0.134
+
+Total time: 	0.126
+
+Total time: 	0.129
+
+Total time: 	0.092
+
+Total time: 	0.107
+
+Total time: 	0.123
+
+Total time: 	0.127
+
+Total time: 	0.158
+
+Total time: 	0.122
+
+Total time: 	0.112
+
+Total time: 	0.116
+
+Total time: 	0.107
+
+Total time: 	0.125
+
+Total time: 	0.124
+
+Total time: 	0.118
+
+Total time: 	0.102
+
+Total time: 	0.152
+
+Total time: 	0.106
+
+Total time: 	0.140
+
+Total time: 	0.086
+
+Total time: 	0.091
+
+Total time: 	0.133
+
+Total time: 	0.149
+
+Total time: 	0.110
+
+Total time: 	0.088
+
+Total time: 	0.094
+
+Total time: 	0.090
+
+Total time: 	0.134
+
+Total time: 	0.141
+
+Total time: 	0.109
+
+Total time: 	0.094
+
+Total time: 	0.087
+
+Total time: 	0.087
+
+Total time: 	0.130
+
+Total time: 	0.151
+
+Total time: 	0.129
+
+Total time: 	0.106
+
+Total time: 	0.153
+
+Total time: 	0.124
+
+Total time: 	0.126
+
+Total time: 	0.154
+
+Total time: 	0.130
+
+Total time: 	0.136
+
+Total time: 	0.142
+
+Total time: 	0.122
+
+Total time: 	0.126
+
+Total time: 	0.098
+
+Total time: 	0.162
+
+Total time: 	0.091
+
+Total time: 	0.090
+
+Total time: 	0.123
+
+Total time: 	0.156
+
+Total time: 	0.163
+
+Total time: 	0.138
+
+Total time: 	0.119
+
+Total time: 	0.093
+
+Total time: 	0.089
+
+Total time: 	0.101
+
+Total time: 	0.103
+
+Total time: 	0.116
+
+Total time: 	0.134
+
+Total time: 	0.119
+
+Total time: 	0.095
+
+Total time: 	0.134
+
+Total time: 	0.092
+
+Total time: 	0.084
+
+Total time: 	0.091
+
+Total time: 	0.120
+
+Total time: 	0.093
+
+Total time: 	0.101
+
+Total time: 	0.129
+
+Total time: 	0.129
+
+Total time: 	0.117
+
+Total time: 	0.129
+
+Total time: 	0.140
+
+Total time: 	0.131
+
+Total time: 	0.140
+
+Total time: 	0.160
+
+Total time: 	0.126
+
+Total time: 	0.103
+
+Total time: 	0.092
+
+Total time: 	0.108
+
+Total time: 	0.094
+
+Total time: 	0.117
+
+Total time: 	0.185
+
+Total time: 	0.126
+
+Total time: 	0.126
+
+Total time: 	0.144
+
+Total time: 	0.101
+
+Total time: 	0.176
+
+Total time: 	0.103
+
+Total time: 	0.103
+
+Total time: 	0.147
+
+Total time: 	0.096
+
+Total time: 	0.083
+
+Total time: 	0.183
+
+Total time: 	0.106
+
+Total time: 	0.140
+
+Total time: 	0.130
+
+Total time: 	0.143
+
+Total time: 	0.101
+
+Total time: 	0.130
+
+Total time: 	0.115
+
+Total time: 	0.127
+
+Total time: 	0.161
+
+Total time: 	0.153
+
+Total time: 	0.128
+
+Total time: 	0.128
+
+Total time: 	0.129
+
+Total time: 	0.083
+
+Total time: 	0.090
+
+Total time: 	0.116
+
+Total time: 	0.106
+
+Total time: 	0.183
+
+Total time: 	0.098
+
+Total time: 	0.112
+
+Total time: 	0.106
+
+Total time: 	0.111
+
+Total time: 	0.100
+
+Total time: 	0.206
+
+Total time: 	0.140
+
+Total time: 	0.114
+
+Total time: 	0.096
+
+Total time: 	0.100
+
+Total time: 	0.139
+
+Total time: 	0.126
+
+Total time: 	0.114
+
+Total time: 	0.154
+
+Total time: 	0.100
+
+Total time: 	0.115
+
+Total time: 	0.112
+
+Total time: 	0.185
+
+Total time: 	0.115
+
+Total time: 	0.134
+
+Total time: 	0.110
+
+Total time: 	0.137
+
+Total time: 	0.198
+
+Total time: 	0.114
+
+Total time: 	0.122
+
+Total time: 	0.113
+
+Total time: 	0.124
+
+Total time: 	0.107
+
+Total time: 	0.158
+
+Total time: 	0.091
+
+Total time: 	0.117
+
+Total time: 	0.105
+
+Total time: 	0.134
+
+Total time: 	0.106
+
+Total time: 	0.192
+
+Total time: 	0.135
+
+Total time: 	0.111
+
+Total time: 	0.115
+
+Total time: 	0.118
+
+Total time: 	0.165
+
+Total time: 	0.135
+
+Total time: 	0.113
+
+Total time: 	0.127
+
+Total time: 	0.104
+
+Total time: 	0.092
+
+Total time: 	0.108
+
+Total time: 	0.154
+
+Total time: 	0.100
+
+Total time: 	0.098
+
+Total time: 	0.102
+
+Total time: 	0.122
+
+Total time: 	0.125
+
+Total time: 	0.174
+
+Total time: 	0.154
+
+Total time: 	0.108
+
+Total time: 	0.130
+
+Total time: 	0.124
+
+Total time: 	0.164
+
+Total time: 	0.135
+
+Total time: 	0.115
+
+Total time: 	0.103
+
+Total time: 	0.127
+
+Total time: 	0.127
+
+Total time: 	0.143
+
+Total time: 	0.142
+
+Total time: 	0.108
+
+Total time: 	0.107
+
+Total time: 	0.082
+
+Total time: 	0.109
+
+Total time: 	0.083
+
+Total time: 	0.184
+
+Total time: 	0.102
+
+Total time: 	0.126
+
+Total time: 	0.103
+
+Total time: 	0.130
+
+Total time: 	0.130
+
+Total time: 	0.126
+
+Total time: 	0.120
+
+Total time: 	0.110
+
+Total time: 	0.109
+
+Total time: 	0.142
+
+Total time: 	0.085
+
+Total time: 	0.153
+
+Total time: 	0.104
+
+Total time: 	0.099
+
+Total time: 	0.101
+
+Total time: 	0.120
+
+Total time: 	0.117
+
+Total time: 	0.136
+
+Total time: 	0.100
+
+Total time: 	0.091
+
+Total time: 	0.098
+
+Total time: 	0.109
+
+Total time: 	0.126
+
+Total time: 	0.111
+
+Total time: 	0.112
+
+Total time: 	0.109
+
+Total time: 	0.120
+
+Total time: 	0.171
+
+Total time: 	0.121
+
+Total time: 	0.109
+
+Total time: 	0.163
+
+Total time: 	0.116
+
+Total time: 	0.100
+
+Total time: 	0.090
+
+Total time: 	0.103
+
+Total time: 	0.144
+
+Total time: 	0.139
+
+Total time: 	0.132
+
+Total time: 	0.149
+
+Total time: 	0.126
+
+Total time: 	0.097
+
+Total time: 	0.157
+
+Total time: 	0.140
+
+Total time: 	0.119
+
+Total time: 	0.106
+
+Total time: 	0.135
+
+Total time: 	0.099
+
+Total time: 	0.173
+
+Total time: 	0.101
+
+Total time: 	0.096
+
+Total time: 	0.121
+
+Total time: 	0.133
+
+Total time: 	0.104
+
+Total time: 	0.180
+
+Total time: 	0.121
+
+Total time: 	0.102
+
+Total time: 	0.173
+
+Total time: 	0.116
+
+Total time: 	0.175
+
+Total time: 	0.127
+
+Total time: 	0.106
+
+Total time: 	0.139
+
+Total time: 	0.135
+
+Total time: 	0.106
+
+Total time: 	0.142
+
+Total time: 	0.163
+
+Total time: 	0.092
+
+Total time: 	0.091
+
+Total time: 	0.111
+
+Total time: 	0.107
+
+Total time: 	0.158
+
+Total time: 	0.114
+
+Total time: 	0.132
+
+Total time: 	0.123
+
+Total time: 	0.125
+
+Total time: 	0.137
+
+Total time: 	0.189
+
+Total time: 	0.108
+
+Total time: 	0.288
+
+Total time: 	0.146
+
+Total time: 	0.175
+
+Total time: 	0.268
+
+Total time: 	0.090
+
+Total time: 	0.091
+
+Total time: 	0.222
+
+Total time: 	0.145
+
+Total time: 	0.118
+
+Total time: 	0.103
+
+Total time: 	0.115
+
+Total time: 	0.099
+
+Total time: 	0.104
+
+Total time: 	0.179
+
+Total time: 	0.161
+
+Total time: 	0.111
+
+Total time: 	0.127
+
+Total time: 	0.118
+
+Total time: 	0.121
+
+Total time: 	0.165
+
+Total time: 	0.135
+
+Total time: 	0.086
+
+Total time: 	0.111
+
+Total time: 	0.105
+
+Total time: 	0.158
+
+Total time: 	0.185
+
+Total time: 	0.090
+
+Total time: 	0.123
+
+Total time: 	0.110
+
+Total time: 	0.091
+
+Total time: 	0.124
+
+Total time: 	0.142
+
+Total time: 	0.112
+
+Total time: 	0.129
+
+Total time: 	0.135
+
+Total time: 	0.087
+
+Total time: 	0.117
+
+Total time: 	0.140
+
+Total time: 	0.107
+
+Total time: 	0.135
+
+Total time: 	0.126
+
+Total time: 	0.143
+
+Total time: 	0.090
+
+Total time: 	0.152
+
+Total time: 	0.149
+
+Total time: 	0.135
+
+Total time: 	0.100
+
+Total time: 	0.095
+
+Total time: 	0.188
+
+Total time: 	0.123
+
+Total time: 	0.117
+
+Total time: 	0.094
+
+Total time: 	0.089
+
+Total time: 	0.105
+
+Total time: 	0.110
+
+Total time: 	0.128
+
+Total time: 	0.122
+
+Total time: 	0.124
+
+Total time: 	0.109
+
+Total time: 	0.108
+
+Total time: 	0.108
+
+Total time: 	0.149
+
+Total time: 	0.097
+
+Total time: 	0.102
+
+Total time: 	0.115
+
+Total time: 	0.111
+
+Total time: 	0.093
+
+Total time: 	0.188
+
+Total time: 	0.098
+
+Total time: 	0.148
+
+Total time: 	0.098
+
+Total time: 	0.108
+
+Total time: 	0.151
+
+Total time: 	0.143
+
+Total time: 	0.146
+
+Total time: 	0.163
+
+Total time: 	0.146
+
+Total time: 	0.127
+
+Total time: 	0.163
+
+Total time: 	0.097
+
+Total time: 	0.121
+
+Total time: 	0.110
+
+Total time: 	0.148
+
+Total time: 	0.113
+
+Total time: 	0.194
+
+Total time: 	0.106
+
+Total time: 	0.104
+
+Total time: 	0.132
+
+Total time: 	0.135
+
+Total time: 	0.114
+
+Total time: 	0.189
+
+Total time: 	0.133
+
+Total time: 	0.105
+
+Total time: 	0.123
+
+Total time: 	0.135
+
+Total time: 	0.134
+
+Total time: 	0.181
+
+Total time: 	0.115
+
+Total time: 	0.117
+
+Total time: 	0.154
+
+Total time: 	0.105
+
+Total time: 	0.152
+
+Total time: 	0.099
+
+Total time: 	0.107
+
+Total time: 	0.145
+
+Total time: 	0.122
+
+Total time: 	0.106
+
+Total time: 	0.186
+
+Total time: 	0.115
+
+Total time: 	0.089
+
+Total time: 	0.080
+
+Total time: 	0.114
+
+Total time: 	0.136
+
+Total time: 	0.216
+
+Total time: 	0.106
+
+Total time: 	0.099
+
+Total time: 	0.083
+
+Total time: 	0.114
+
+Total time: 	0.121
+
+Total time: 	0.186
+
+Total time: 	0.108
+
+Total time: 	0.151
+
+Total time: 	0.118
+
+Total time: 	0.107
+
+Total time: 	0.094
+
+Total time: 	0.188
+
+Total time: 	0.108
+
+Total time: 	0.078
+
+Total time: 	0.109
+
+Total time: 	0.157
+
+Total time: 	0.170
+
+Total time: 	0.168
+
+Total time: 	0.117
+
+Total time: 	0.105
+
+Total time: 	0.104
+
+Total time: 	0.115
+
+Total time: 	0.119
+
+Total time: 	0.159
+
+Total time: 	0.105
+
+Total time: 	0.106
+
+Total time: 	0.111
+
+Total time: 	0.108
+
+Total time: 	0.148
+
+Total time: 	0.164
+
+Total time: 	0.093
+
+Total time: 	0.135
+
+Total time: 	0.100
+
+Total time: 	0.100
+
+Total time: 	0.129
+
+Total time: 	0.095
+
+Total time: 	0.125
+
+Total time: 	0.096
+
+Total time: 	0.145
+
+Total time: 	0.107
+
+Total time: 	0.136
+
+Total time: 	0.134
+
+Total time: 	0.125
+
+Total time: 	0.137
+
+Total time: 	0.163
+
+Total time: 	0.110
+
+Total time: 	0.147
+
+Total time: 	0.108
+
+Total time: 	0.100
+
+Total time: 	0.094
+
+Total time: 	0.122
+
+Total time: 	0.105
+
+Total time: 	0.167
+
+Total time: 	0.150
+
+Total time: 	0.094
+
+Total time: 	0.101
+
+Total time: 	0.124
+
+Total time: 	0.095
+
+Total time: 	0.170
+
+Total time: 	0.121
+
+Total time: 	0.135
+
+Total time: 	0.102
+
+Total time: 	0.103
+
+Total time: 	0.097
+
+Total time: 	0.136
+
+Total time: 	0.100
+
+Total time: 	0.092
+
+Total time: 	0.122
+
+Total time: 	0.099
+
+Total time: 	0.127
+
+Total time: 	0.097
+
+Total time: 	0.191
+
+Total time: 	0.112
+
+Total time: 	0.132
+
+Total time: 	0.102
+
+Total time: 	0.104
+
+Total time: 	0.104
+
+Total time: 	0.119
+
+Total time: 	0.119
+
+Total time: 	0.112
+
+Total time: 	0.152
+
+Total time: 	0.140
+
+Total time: 	0.116
+
+Total time: 	0.158
+
+Total time: 	0.098
+
+Total time: 	0.088
+
+Total time: 	0.108
+
+Total time: 	0.093
+
+Total time: 	0.101
+
+Total time: 	0.167
+
+Total time: 	0.175
+
+Total time: 	0.102
+
+Total time: 	0.107
+
+Total time: 	0.119
+
+Total time: 	0.114
+
+Total time: 	0.161
+
+Total time: 	0.090
+
+Total time: 	0.101
+
+Total time: 	0.144
+
+Total time: 	0.131
+
+Total time: 	0.087
+
+Total time: 	0.152
+
+Total time: 	0.152
+
+Total time: 	0.110
+
+Total time: 	0.133
+
+Total time: 	0.100
+
+Total time: 	0.105
+
+Total time: 	0.142
+
+Total time: 	0.144
+
+Total time: 	0.148
+
+Total time: 	0.097
+
+Total time: 	0.101
+
+Total time: 	0.103
+
+Total time: 	0.172
+
+Total time: 	0.118
+
+Total time: 	0.110
+
+Total time: 	0.109
+
+Total time: 	0.084
+
+Total time: 	0.126
+
+Total time: 	0.197
+
+Total time: 	0.119
+
+Total time: 	0.130
+
+Total time: 	0.115
+
+Total time: 	0.150
+
+Total time: 	0.188
+
+Total time: 	0.118
+
+Total time: 	0.092
+
+Total time: 	0.121
+
+Total time: 	0.104
+
+Total time: 	0.102
+
+Total time: 	0.169
+
+Total time: 	0.114
+
+Total time: 	0.100
+
+Total time: 	0.107
+
+Total time: 	0.097
+
+Total time: 	0.126
+
+Total time: 	0.137
+
+Total time: 	0.110
+
+Total time: 	0.128
+
+Total time: 	0.096
+
+Total time: 	0.144
+
+Total time: 	0.087
+
+Total time: 	0.152
+
+Total time: 	0.148
+
+Total time: 	0.125
+
+Total time: 	0.101
+
+Total time: 	0.094
+
+Total time: 	0.259
+
+Total time: 	0.167
+
+Total time: 	0.098
+
+Total time: 	0.115
+
+Total time: 	0.101
+
+Total time: 	0.122
+
+Total time: 	0.105
+
+Total time: 	0.097
+
+Total time: 	0.140
+
+Total time: 	0.114
+
+Total time: 	0.134
+
+Total time: 	0.224
+
+Total time: 	0.105
+
+Total time: 	0.104
+
+Total time: 	0.095
+
+Total time: 	0.113
+
+Total time: 	0.104
+
+Total time: 	0.152
+
+Total time: 	0.114
+
+Total time: 	0.170
+
+Total time: 	0.134
+
+Total time: 	0.099
+
+Total time: 	0.159
+
+Total time: 	0.096
+
+Total time: 	0.133
+
+Total time: 	0.151
+
+Total time: 	0.131
+
+Total time: 	0.121
+
+Total time: 	0.104
+
+Total time: 	0.099
+
+Total time: 	0.167
+
+Total time: 	0.109
+
+Total time: 	0.089
+
+Total time: 	0.099
+
+Total time: 	0.107
+
+Total time: 	0.090
+
+Total time: 	0.112
+
+Total time: 	0.122
+
+Total time: 	0.087
+
+Total time: 	0.087
+
+Total time: 	0.085
+
+Total time: 	0.103
+
+Total time: 	0.108
+
+Total time: 	0.131
+
+Total time: 	0.105
+
+Total time: 	0.105
+
+Total time: 	0.096
+
+Total time: 	0.098
+
+Total time: 	0.118
+
+Total time: 	0.158
+
+Total time: 	0.128
+
+Total time: 	0.106
+
+Total time: 	0.100
+
+Total time: 	0.133
+
+Total time: 	0.113
+
+Total time: 	0.089
+
+Total time: 	0.144
+
+Total time: 	0.148
+
+Total time: 	0.133
+
+Total time: 	0.121
+
+Total time: 	0.109
+
+Total time: 	0.119
+
+Total time: 	0.153
+
+Total time: 	0.125
+
+Total time: 	0.139
+
+Total time: 	0.096
+
+Total time: 	0.108
+
+Total time: 	0.111
+
+Total time: 	0.106
+
+Total time: 	0.116
+
+Total time: 	0.150
+
+Total time: 	0.160
+
+Total time: 	0.109
+
+Total time: 	0.121
+
+Total time: 	0.167
+
+Total time: 	0.124
+
+Total time: 	0.100
+
+Total time: 	0.121
+
+Total time: 	0.119
+
+Total time: 	0.130
+
+Total time: 	0.182
+
+Total time: 	0.125
+
+Total time: 	0.115
+
+Total time: 	0.125
+
+Total time: 	0.161
+
+Total time: 	0.147
+
+Total time: 	0.183
+
+Total time: 	0.119
+
+Total time: 	0.116
+
+Total time: 	0.115
+
+Total time: 	0.162
+
+Total time: 	0.162
+
+Total time: 	0.136
+
+Total time: 	0.086
+
+Total time: 	0.101
+
+Total time: 	0.130
+
+Total time: 	0.136
+
+Total time: 	0.171
+
+Total time: 	0.101
+
+Total time: 	0.143
+
+Total time: 	0.131
+
+Total time: 	0.135
+
+Total time: 	0.115
+
+Total time: 	0.134
+
+Total time: 	0.111
+
+Total time: 	0.100
+
+Total time: 	0.107
+
+Total time: 	0.146
+
+Total time: 	0.089
+
+Total time: 	0.175
+
+Total time: 	0.135
+
+Total time: 	0.140
+
+Total time: 	0.098
+
+Total time: 	0.119
+
+Total time: 	0.192
+
+Total time: 	0.122
+
+Total time: 	0.181
+
+Total time: 	0.120
+
+Total time: 	0.103
+
+Total time: 	0.103
+
+Total time: 	0.163
+
+Total time: 	0.087
+
+Total time: 	0.115
+
+Total time: 	0.132
+
+Total time: 	0.127
+
+Total time: 	0.082
+
+Total time: 	0.174
+
+Total time: 	0.114
+
+Total time: 	0.117
+
+Total time: 	0.121
+
+Total time: 	0.230
+
+Total time: 	0.139
+
+Total time: 	0.106
+
+Total time: 	0.140
+
+Total time: 	0.109
+
+Total time: 	0.089
+
+Total time: 	0.087
+
+Total time: 	0.125
+
+Total time: 	0.140
+
+Total time: 	0.119
+
+Total time: 	0.101
+
+Total time: 	0.099
+
+Total time: 	0.135
+
+Total time: 	0.128
+
+Total time: 	0.135
+
+Total time: 	0.092
+
+Total time: 	0.112
+
+Total time: 	0.131
+
+Total time: 	0.121
+
+Total time: 	0.124
+
+Total time: 	0.154
+
+Total time: 	0.127
+
+Total time: 	0.082
+
+Total time: 	0.127
+
+Total time: 	0.104
+
+Total time: 	0.083
+
+Total time: 	0.111
+
+Total time: 	0.142
+
+Total time: 	0.084
+
+Total time: 	0.089
+
+Total time: 	0.111
+
+Total time: 	0.095
+
+Total time: 	0.168
+
+Total time: 	0.140
+
+Total time: 	0.082
+
+Total time: 	0.115
+
+Total time: 	0.171
+
+Total time: 	0.097
+
+Total time: 	0.159
+
+Total time: 	0.189
+
+Total time: 	0.106
+
+Total time: 	0.111
+
+Total time: 	0.103
+
+Total time: 	0.149
+
+Total time: 	0.136
+
+Total time: 	0.114
+
+Total time: 	0.112
+
+Total time: 	0.099
+
+Total time: 	0.132
+
+Total time: 	0.110
+
+Total time: 	0.170
+
+Total time: 	0.099
+
+Total time: 	0.113
+
+Total time: 	0.105
+
+Total time: 	0.140
+
+Total time: 	0.157
+
+Total time: 	0.123
+
+Total time: 	0.117
+
+Total time: 	0.115
+
+Total time: 	0.104
+
+Total time: 	0.095
+
+Total time: 	0.165
+
+Total time: 	0.139
+
+Total time: 	0.112
+
+Total time: 	0.113
+
+Total time: 	0.133
+
+Total time: 	0.129
+
+Total time: 	0.175
+
+Total time: 	0.117
+
+Total time: 	0.102
+
+Total time: 	0.124
+
+Total time: 	0.108
+
+Total time: 	0.114
+
+Total time: 	0.174
+
+Total time: 	0.127
+
+Total time: 	0.117
+
+Total time: 	0.098
+
+Total time: 	0.094
+
+Total time: 	0.118
+
+Total time: 	0.094
+
+Total time: 	0.097
+
+Total time: 	0.109
+
+Total time: 	0.095
+
+Total time: 	0.121
+
+Total time: 	0.133
+
+Total time: 	0.111
+
+Total time: 	0.173
+
+Total time: 	0.126
+
+Total time: 	0.112
+
+Total time: 	0.123
+
+Total time: 	0.130
+
+Total time: 	0.123
+
+Total time: 	0.101
+
+Total time: 	0.098
+
+Total time: 	0.126
+
+Total time: 	0.139
+
+Total time: 	0.088
+
+Total time: 	0.134
+
+Total time: 	0.099
+
+Total time: 	0.126
+
+Total time: 	0.112
+
+Total time: 	0.121
+
+Total time: 	0.122
+
+Total time: 	0.122
+
+Total time: 	0.107
+
+Total time: 	0.137
+
+Total time: 	0.094
+
+Total time: 	0.105
+
+Total time: 	0.091
+
+Total time: 	0.118
+
+Total time: 	0.115
+
+Total time: 	0.181
+
+Total time: 	0.120
+
+Total time: 	0.120
+
+Total time: 	0.128
+
+Total time: 	0.094
+
+Total time: 	0.130
+
+Total time: 	0.174
+
+Total time: 	0.113
+
+Total time: 	0.100
+
+Total time: 	0.091
+
+Total time: 	0.107
+
+Total time: 	0.174
+
+Total time: 	0.207
+
+Total time: 	0.100
+
+Total time: 	0.085
+
+Total time: 	0.106
+
+Total time: 	0.096
+
+Total time: 	0.138
+
+Total time: 	0.129
+
+Total time: 	0.143
+
+Total time: 	0.136
+
+Total time: 	0.113
+
+Total time: 	0.112
+
+Total time: 	0.120
+
+Total time: 	0.168
+
+Total time: 	0.109
+
+Total time: 	0.121
+
+Total time: 	0.110
+
+Total time: 	0.124
+
+Total time: 	0.109
+
+Total time: 	0.171
+
+Total time: 	0.161
+
+Total time: 	0.106
+
+Total time: 	0.117
+
+Total time: 	0.096
+
+Total time: 	0.129
+
+Total time: 	0.133
+
+Total time: 	0.119
+
+Total time: 	0.103
+
+Total time: 	0.116
+
+Total time: 	0.217
+
+Total time: 	0.081
+
+Total time: 	0.113
+
+Total time: 	0.129
+
+Total time: 	0.121
+
+Total time: 	0.095
+
+Total time: 	0.116
+
+Total time: 	0.119
+
+Total time: 	0.139
+
+Total time: 	0.156
+
+Total time: 	0.121
+
+Total time: 	0.100
+
+Total time: 	0.106
+
+Total time: 	0.139
+
+Total time: 	0.107
+
+Total time: 	0.105
+
+Total time: 	0.103
+
+Total time: 	0.095
+
+Total time: 	0.093
+
+Total time: 	0.105
+
+Total time: 	0.159
+
+Total time: 	0.109
+
+Total time: 	0.123
+
+Total time: 	0.087
+
+Total time: 	0.098
+
+Total time: 	0.105
+
+Total time: 	0.102
+
+Total time: 	0.249
+
+Total time: 	0.142
+
+Total time: 	0.103
+
+Total time: 	0.133
+
+Total time: 	0.112
+
+Total time: 	0.147
+
+Total time: 	0.122
+
+Total time: 	0.116
+
+Total time: 	0.116
+
+Total time: 	0.095
+
+Total time: 	0.123
+
+Total time: 	0.107
+
+Total time: 	0.137
+
+Total time: 	0.100
+
+Total time: 	0.127
+
+Total time: 	0.118
+
+Total time: 	0.130
+
+Total time: 	0.100
+
+Total time: 	0.163
+
+Total time: 	0.121
+
+Total time: 	0.144
+
+Total time: 	0.119
+
+Total time: 	0.098
+
+Total time: 	0.088
+
+Total time: 	0.133
+
+Total time: 	0.104
+
+Total time: 	0.144
+
+Total time: 	0.101
+
+Total time: 	0.113
+
+Total time: 	0.112
+
+Total time: 	0.183
+
+Total time: 	0.107
+
+Total time: 	0.127
+
+Total time: 	0.138
+
+Total time: 	0.114
+
+Total time: 	0.126
+
+Total time: 	0.091
+
+Total time: 	0.126
+
+Total time: 	0.105
+
+Total time: 	0.103
+
+Total time: 	0.085
+
+Total time: 	0.095
+
+Total time: 	0.142
+
+Total time: 	0.156
+
+Total time: 	0.127
+
+Total time: 	0.097
+
+Total time: 	0.091
+
+Total time: 	0.105
+
+Total time: 	0.144
+
+Total time: 	0.115
+
+Total time: 	0.132
+
+Total time: 	0.143
+
+Total time: 	0.105
+
+Total time: 	0.119
+
+Total time: 	0.126
+
+Total time: 	0.123
+
+Total time: 	0.098
+
+Total time: 	0.166
+
+Total time: 	0.146
+
+Total time: 	0.117
+
+Total time: 	0.116
+
+Total time: 	0.109
+
+Total time: 	0.097
+
+Total time: 	0.109
+
+Total time: 	0.115
+
+Total time: 	0.095
+
+Total time: 	0.145
+
+Total time: 	0.151
+
+Total time: 	0.112
+
+Total time: 	0.100
+
+Total time: 	0.128
+
+Total time: 	0.090
+
+Total time: 	0.116
+
+Total time: 	0.099
+
+Total time: 	0.080
+
+Total time: 	0.111
+
+Total time: 	0.142
+
+Total time: 	0.193
+
+Total time: 	0.274
+
+Total time: 	0.125
+
+Total time: 	0.183
+
+Total time: 	0.121
+
+Total time: 	0.096
+
+Total time: 	0.098
+
+Total time: 	0.119
+
+Total time: 	0.094
+
+Total time: 	0.160
+
+Total time: 	0.092
+
+Total time: 	0.106
+
+Total time: 	0.094
+
+Total time: 	0.114
+
+Total time: 	0.134
+
+Total time: 	0.145
+
+Total time: 	0.084
+
+Total time: 	0.089
+
+Total time: 	0.086
+
+Total time: 	0.135
+
+Total time: 	0.109
+
+Total time: 	0.161
+
+Total time: 	0.117
+
+Total time: 	0.114
+
+Total time: 	0.114
+
+Total time: 	0.098
+
+Total time: 	0.149
+
+Total time: 	0.205
+
+Total time: 	0.115
+
+Total time: 	0.100
+
+Total time: 	0.122
+
+Total time: 	0.105
+
+Total time: 	0.135
+
+Total time: 	0.171
+
+Total time: 	0.122
+
+Total time: 	0.095
+
+Total time: 	0.111
+
+Total time: 	0.121
+
+Total time: 	0.125
+
+Total time: 	0.152
+
+Total time: 	0.123
+
+Total time: 	0.110
+
+Total time: 	0.109
+
+Total time: 	0.098
+
+Total time: 	0.109
+
+Total time: 	0.124
+
+Total time: 	0.153
+
+Total time: 	0.147
+
+Total time: 	0.107
+
+Total time: 	0.097
+
+Total time: 	0.087
+
+Total time: 	0.144
+
+Total time: 	0.102
+
+Total time: 	0.124
+
+Total time: 	0.126
+
+Total time: 	0.121
+
+Total time: 	0.122
+
+Total time: 	0.172
+
+Total time: 	0.153
+
+Total time: 	0.099
+
+Total time: 	0.127
+
+Total time: 	0.109
+
+Total time: 	0.106
+
+Total time: 	0.126
+
+Total time: 	0.131
+
+Total time: 	0.138
+
+Total time: 	0.087
+
+Total time: 	0.113
+
+Total time: 	0.099
+
+Total time: 	0.189
+
+Total time: 	0.128
+
+Total time: 	0.162
+
+Total time: 	0.155
+
+Total time: 	0.124
+
+Total time: 	0.148
+
+Total time: 	0.118
+
+Total time: 	0.158
+
+Total time: 	0.130
+
+Total time: 	0.120
+
+Total time: 	0.096
+
+Total time: 	0.105
+
+Total time: 	0.120
+
+Total time: 	0.123
+
+Total time: 	0.097
+
+Total time: 	0.110
+
+Total time: 	0.135
+
+Total time: 	0.092
+
+Total time: 	0.153
+
+Total time: 	0.113
+
+Total time: 	0.108
+
+Total time: 	0.118
+
+Total time: 	0.120
+
+Total time: 	0.112
+
+Total time: 	0.100
+
+Total time: 	0.102
+
+Total time: 	0.117
+
+Total time: 	0.145
+
+Total time: 	0.128
+
+Total time: 	0.132
+
+Total time: 	0.095
+
+Total time: 	0.119
+
+Total time: 	0.129
+
+Total time: 	0.090
+
+Total time: 	0.110
+
+Total time: 	0.110
+
+Total time: 	0.125
+
+Total time: 	0.122
+
+Total time: 	0.090
+
+Total time: 	0.083
+
+Total time: 	0.086
+
+Total time: 	0.096
+
+Total time: 	0.086
+
+Total time: 	0.145
+
+Total time: 	0.093
+
+Total time: 	0.104
+
+Total time: 	0.118
+
+Total time: 	0.092
+
+Total time: 	0.140
+
+Total time: 	0.122
+
+Total time: 	0.121
+
+Total time: 	0.123
+
+Total time: 	0.100
+
+Total time: 	0.121
+
+Total time: 	0.138
+
+Total time: 	0.123
+
+Total time: 	0.164
+
+Total time: 	0.112
+
+Total time: 	0.101
+
+Total time: 	0.113
+
+Total time: 	0.107
+
+Total time: 	0.128
+
+Total time: 	0.133
+
+Total time: 	0.114
+
+Total time: 	0.091
+
+Total time: 	0.130
+
+Total time: 	0.099
+
+Total time: 	0.117
+
+Total time: 	0.115
+
+Total time: 	0.112
+
+Total time: 	0.139
+
+Total time: 	0.122
+
+Total time: 	0.093
+
+Total time: 	0.111
+
+Total time: 	0.108
+
+Total time: 	0.145
+
+Total time: 	0.128
+
+Total time: 	0.089
+
+Total time: 	0.121
+
+Total time: 	0.112
+
+Total time: 	0.140
+
+Total time: 	0.130
+
+Total time: 	0.117
+
+Total time: 	0.097
+
+Total time: 	0.121
+
+Total time: 	0.097
+
+Total time: 	0.156
+
+Total time: 	0.092
+
+Total time: 	0.136
+
+Total time: 	0.091
+
+Total time: 	0.118
+
+Total time: 	0.116
+
+Total time: 	0.091
+
+Total time: 	0.170
+
+Total time: 	0.108
+
+Total time: 	0.142
+
+Total time: 	0.156
+
+Total time: 	0.178
+
+Total time: 	0.115
+
+Total time: 	0.185
+
+Total time: 	0.099
+
+Total time: 	0.110
+
+Total time: 	0.089
+
+Total time: 	0.098
+
+Total time: 	0.090
+
+Total time: 	0.152
+
+Total time: 	0.134
+
+Total time: 	0.123
+
+Total time: 	0.114
+
+Total time: 	0.108
+
+Total time: 	0.113
+
+Total time: 	0.139
+
+Total time: 	0.124
+
+Total time: 	0.135
+
+Total time: 	0.110
+
+Total time: 	0.114
+
+Total time: 	0.116
+
+Total time: 	0.157
+
+Total time: 	0.128
+
+Total time: 	0.149
+
+Total time: 	0.110
+
+Total time: 	0.108
+
+Total time: 	0.119
+
+Total time: 	0.149
+
+Total time: 	0.094
+
+Total time: 	0.125
+
+Total time: 	0.102
+
+Total time: 	0.127
+
+Total time: 	0.101
+
+Total time: 	0.163
+
+Total time: 	0.121
+
+Total time: 	0.104
+
+Total time: 	0.091
+
+Total time: 	0.102
+
+Total time: 	0.126
+
+Total time: 	0.130
+
+Total time: 	0.144
+
+Total time: 	0.083
+
+Total time: 	0.100
+
+Total time: 	0.140
+
+Total time: 	0.089
+
+Total time: 	0.196
+
+Total time: 	0.136
+
+Total time: 	0.083
+
+Total time: 	0.136
+
+Total time: 	0.150
+
+Total time: 	0.140
+
+Total time: 	0.119
+
+Total time: 	0.104
+
+Total time: 	0.098
+
+Total time: 	0.141
+
+Total time: 	0.101
+
+Total time: 	0.105
+
+Total time: 	0.177
+
+Total time: 	0.120
+
+Total time: 	0.129
+
+Total time: 	0.111
+
+Total time: 	0.101
+
+Total time: 	0.162
+
+Total time: 	0.112
+
+Total time: 	0.086
+
+Total time: 	0.119
+
+Total time: 	0.096
+
+Total time: 	0.105
+
+Total time: 	0.184
+
+Total time: 	0.093
+
+Total time: 	0.095
+
+Total time: 	0.097
+
+Total time: 	0.089
+
+Total time: 	0.094
+
+Total time: 	0.138
+
+Total time: 	0.112
+
+Total time: 	0.116
+
+Total time: 	0.131
+
+Total time: 	0.109
+
+Total time: 	0.103
+
+Total time: 	0.095
+
+Total time: 	0.153
+
+Total time: 	0.129
+
+Total time: 	0.114
+
+Total time: 	0.128
+
+Total time: 	0.099
+
+Total time: 	0.164
+
+Total time: 	0.132
+
+Total time: 	0.141
+
+Total time: 	0.089
+
+Total time: 	0.125
+
+Total time: 	0.098
+
+Total time: 	0.139
+
+Total time: 	0.135
+
+Total time: 	0.149
+
+Total time: 	0.129
+
+Total time: 	0.124
+
+Total time: 	0.115
+
+Total time: 	0.177
+
+Total time: 	0.103
+
+Total time: 	0.137
+
+Total time: 	0.173
+
+Total time: 	0.120
+
+Total time: 	0.144
+
+Total time: 	0.135
+
+Total time: 	0.082
+
+Total time: 	0.098
+
+Total time: 	0.134
+
+Total time: 	0.127
+
+Total time: 	0.186
+
+Total time: 	0.117
+
+Total time: 	0.108
+
+Total time: 	0.118
+
+Total time: 	0.130
+
+Total time: 	0.113
+
+Total time: 	0.128
+
+Total time: 	0.130
+
+Total time: 	0.123
+
+Total time: 	0.109
+
+Total time: 	0.124
+
+Total time: 	0.126
+
+Total time: 	0.138
+
+Total time: 	0.124
+
+Total time: 	0.108
+
+Total time: 	0.106
+
+Total time: 	0.097
+
+Total time: 	0.092
+
+Total time: 	0.101
+
+Total time: 	0.193
+
+Total time: 	0.120
+
+Total time: 	0.119
+
+Total time: 	0.150
+
+Total time: 	0.097
+
+Total time: 	0.100
+
+Total time: 	0.159
+
+Total time: 	0.120
+
+Total time: 	0.113
+
+Total time: 	0.159
+
+Total time: 	0.129
+
+Total time: 	0.173
+
+Total time: 	0.106
+
+Total time: 	0.110
+
+Total time: 	0.110
+
+Total time: 	0.114
+
+Total time: 	0.145
+
+Total time: 	0.159
+
+Total time: 	0.106
+
+Total time: 	0.092
+
+Total time: 	0.087
+
+Total time: 	0.095
+
+Total time: 	0.106
+
+Total time: 	0.147
+
+Total time: 	0.173
+
+Total time: 	0.125
+
+Total time: 	0.161
+
+Total time: 	0.086
+
+Total time: 	0.121
+
+Total time: 	0.122
+
+Total time: 	0.111
+
+Total time: 	0.131
+
+Total time: 	0.123
+
+Total time: 	0.129
+
+Total time: 	0.121
+
+Total time: 	0.124
+
+Total time: 	0.151
+
+Total time: 	0.117
+
+Total time: 	0.117
+
+Total time: 	0.105
+
+Total time: 	0.112
+
+Total time: 	0.199
+
+Total time: 	0.105
+
+Total time: 	0.120
+
+Total time: 	0.109
+
+Total time: 	0.128
+
+Total time: 	0.134
+
+Total time: 	0.146
+
+Total time: 	0.136
+
+Total time: 	0.108
+
+Total time: 	0.120
+
+Total time: 	0.113
+
+Total time: 	0.102
+
+Total time: 	0.136
+
+Total time: 	0.121
+
+Total time: 	0.106
+
+Total time: 	0.111
+
+Total time: 	0.121
+
+Total time: 	0.107
+
+Total time: 	0.134
+
+Total time: 	0.135
+
+Total time: 	0.097
+
+Total time: 	0.286
+
+Total time: 	0.145
+
+Total time: 	0.153
+
+Total time: 	0.104
+
+Total time: 	0.219
+
+Total time: 	0.093
+
+Total time: 	0.296
+
+Total time: 	0.191
+
+Total time: 	0.085
+
+Total time: 	0.119
+
+Total time: 	0.109
+
+Total time: 	0.116
+
+Total time: 	0.144
+
+Total time: 	0.134
+
+Total time: 	0.134
+
+Total time: 	0.122
+
+Total time: 	0.095
+
+Total time: 	0.118
+
+Total time: 	0.147
+
+Total time: 	0.144
+
+Total time: 	0.106
+
+Total time: 	0.094
+
+Total time: 	0.107
+
+Total time: 	0.113
+
+Total time: 	0.188
+
+Total time: 	0.114
+
+Total time: 	0.113
+
+Total time: 	0.103
+
+Total time: 	0.108
+
+Total time: 	0.101
+
+Total time: 	0.172
+
+Total time: 	0.112
+
+Total time: 	0.117
+
+Total time: 	0.134
+
+Total time: 	0.135
+
+Total time: 	0.124
+
+Total time: 	0.146
+
+Total time: 	0.151
+
+Total time: 	0.104
+
+Total time: 	0.112
+
+Total time: 	0.134
+
+Total time: 	0.122
+
+Total time: 	0.169
+
+Total time: 	0.122
+
+Total time: 	0.132
+
+Total time: 	0.109
+
+Total time: 	0.108
+
+Total time: 	0.170
+
+Total time: 	0.117
+
+Total time: 	0.129
+
+Total time: 	0.137
+
+Total time: 	0.129
+
+Total time: 	0.096
+
+Total time: 	0.179
+
+Total time: 	0.127
+
+Total time: 	0.102
+
+Total time: 	0.099
+
+Total time: 	0.089
+
+Total time: 	0.091
+
+Total time: 	0.126
+
+Total time: 	0.187
+
+Total time: 	0.164
+
+Total time: 	0.100
+
+Total time: 	0.125
+
+Total time: 	0.098
+
+Total time: 	0.167
+
+Total time: 	0.135
+
+Total time: 	0.109
+
+Total time: 	0.130
+
+Total time: 	0.112
+
+Total time: 	0.103
+
+Total time: 	0.148
+
+Total time: 	0.109
+
+Total time: 	0.117
+
+Total time: 	0.123
+
+Total time: 	0.138
+
+Total time: 	0.097
+
+Total time: 	0.225
+
+Total time: 	0.135
+
+Total time: 	0.093
+
+Total time: 	0.151
+
+Total time: 	0.088
+
+Total time: 	0.168
+
+Total time: 	0.135
+
+Total time: 	0.102
+
+Total time: 	0.122
+
+Total time: 	0.127
+
+Total time: 	0.144
+
+Total time: 	0.166
+
+Total time: 	0.154
+
+Total time: 	0.154
+
+Total time: 	0.115
+
+Total time: 	0.088
+
+Total time: 	0.099
+
+Total time: 	0.184
+
+Total time: 	0.118
+
+Total time: 	0.118
+
+Total time: 	0.139
+
+Total time: 	0.107
+
+Total time: 	0.146
+
+Total time: 	0.117
+
+Total time: 	0.131
+
+Total time: 	0.124
+
+Total time: 	0.094
+
+Total time: 	0.111
+
+Total time: 	0.172
+
+Total time: 	0.104
+
+Total time: 	0.130
+
+Total time: 	0.094
+
+Total time: 	0.090
+
+Total time: 	0.143
+
+Total time: 	0.164
+
+Total time: 	0.148
+
+Total time: 	0.103
+
+Total time: 	0.094
+
+Total time: 	0.090
+
+Total time: 	0.106
+
+Total time: 	0.153
+
+Total time: 	0.140
+
+Total time: 	0.090
+
+Total time: 	0.113
+
+Total time: 	0.145
+
+Total time: 	0.142
+
+Total time: 	0.172
+
+Total time: 	0.110
+
+Total time: 	0.169
+
+Total time: 	0.085
+
+Total time: 	0.121
+
+Total time: 	0.105
+
+Total time: 	0.176
+
+Total time: 	0.113
+
+Total time: 	0.127
+
+Total time: 	0.095
+
+Total time: 	0.102
+
+Total time: 	0.112
+
+Total time: 	0.146
+
+Total time: 	0.130
+
+Total time: 	0.100
+
+Total time: 	0.101
+
+Total time: 	0.103
+
+Total time: 	0.125
+
+Total time: 	0.178
+
+Total time: 	0.136
+
+Total time: 	0.113
+
+Total time: 	0.092
+
+Total time: 	0.095
+
+Total time: 	0.121
+
+Total time: 	0.112
+
+Total time: 	0.158
+
+Total time: 	0.089
+
+Total time: 	0.118
+
+Total time: 	0.089
+
+Total time: 	0.108
+
+Total time: 	0.114
+
+Total time: 	0.182
+
+Total time: 	0.144
+
+Total time: 	0.097
+
+Total time: 	0.089
+
+Total time: 	0.103
+
+Total time: 	0.120
+
+Total time: 	0.169
+
+Total time: 	0.131
+
+Total time: 	0.102
+
+Total time: 	0.115
+
+Total time: 	0.085
+
+Total time: 	0.152
+
+Total time: 	0.196
+
+Total time: 	0.100
+
+Total time: 	0.116
+
+Total time: 	0.122
+
+Total time: 	0.106
+
+Total time: 	0.147
+
+Total time: 	0.133
+
+Total time: 	0.127
+
+Total time: 	0.101
+
+Total time: 	0.103
+
+Total time: 	0.107
+
+Total time: 	0.111
+
+Total time: 	0.134
+
+Total time: 	0.122
+
+Total time: 	0.124
+
+Total time: 	0.134
+
+Total time: 	0.101
+
+Total time: 	0.153
+
+Total time: 	0.113
+
+Total time: 	0.115
+
+Total time: 	0.114
+
+Total time: 	0.132
+
+Total time: 	0.104
+
+Total time: 	0.161
+
+Total time: 	0.099
+
+Total time: 	0.102
+
+Total time: 	0.133
+
+Total time: 	0.158
+
+Total time: 	0.095
+
+Total time: 	0.145
+
+Total time: 	0.131
+
+Total time: 	0.128
+
+Total time: 	0.087
+
+Total time: 	0.087
+
+Total time: 	0.111
+
+Total time: 	0.186
+
+Total time: 	0.102
+
+Total time: 	0.117
+
+Total time: 	0.139
+
+Total time: 	0.128
+
+Total time: 	0.109
+
+Total time: 	0.148
+
+Total time: 	0.134
+
+Total time: 	0.153
+
+Total time: 	0.124
+
+Total time: 	0.150
+
+Total time: 	0.112
+
+Total time: 	0.128
+
+Total time: 	0.101
+
+Total time: 	0.093
+
+Total time: 	0.095
+
+Total time: 	0.119
+
+Total time: 	0.129
+
+Total time: 	0.160
+
+Total time: 	0.127
+
+Total time: 	0.108
+
+Total time: 	0.116
+
+Total time: 	0.096
+
+Total time: 	0.113
+
+Total time: 	0.151
+
+Total time: 	0.102
+
+Total time: 	0.097
+
+Total time: 	0.123
+
+Total time: 	0.097
+
+Total time: 	0.099
+
+Total time: 	0.231
+
+Total time: 	0.088
+
+Total time: 	0.101
+
+Total time: 	0.129
+
+Total time: 	0.100
+
+Total time: 	0.141
+
+Total time: 	0.211
+
+Total time: 	0.112
+
+Total time: 	0.108
+
+Total time: 	0.093
+
+Total time: 	0.147
+
+Total time: 	0.160
+
+Total time: 	0.142
+
+Total time: 	0.130
+
+Total time: 	0.095
+
+Total time: 	0.111
+
+Total time: 	0.128
+
+Total time: 	0.107
+
+Total time: 	0.127
+
+Total time: 	0.093
+
+Total time: 	0.079
+
+Total time: 	0.118
+
+Total time: 	0.128
+
+Total time: 	0.081
+
+Total time: 	0.154
+
+Total time: 	0.099
+
+Total time: 	0.126
+
+Total time: 	0.143
+
+Total time: 	0.127
+
+Total time: 	0.146
+
+Total time: 	0.163
+
+Total time: 	0.155
+
+Total time: 	0.104
+
+Total time: 	0.108
+
+Total time: 	0.148
+
+Total time: 	0.136
+
+Total time: 	0.147
+
+Total time: 	0.084
+
+Total time: 	0.127
+
+Total time: 	0.107
+
+Total time: 	0.135
+
+Total time: 	0.090
+
+Total time: 	0.100
+
+Total time: 	0.152
+
+Total time: 	0.111
+
+Total time: 	0.113
+
+Total time: 	0.122
+
+Total time: 	0.114
+
+Total time: 	0.151
+
+Total time: 	0.097
+
+Total time: 	0.101
+
+Total time: 	0.262
+
+Total time: 	0.121
+
+Total time: 	0.171
+
+Total time: 	0.083
+
+Total time: 	0.094
+
+Total time: 	0.111
+
+Total time: 	0.114
+
+Total time: 	0.132
+
+Total time: 	0.133
+
+Total time: 	0.161
+
+Total time: 	0.130
+
+Total time: 	0.116
+
+Total time: 	0.086
+
+Total time: 	0.110
+
+Total time: 	0.144
+
+Total time: 	0.157
+
+Total time: 	0.105
+
+Total time: 	0.131
+
+Total time: 	0.126
+
+Total time: 	0.103
+
+Total time: 	0.115
+
+Total time: 	0.117
+
+Total time: 	0.120
+
+Total time: 	0.112
+
+Total time: 	0.128
+
+Total time: 	0.111
+
+Total time: 	0.123
+
+Total time: 	0.129
+
+Total time: 	0.096
+
+Total time: 	0.121
+
+Total time: 	0.103
+
+Total time: 	0.114
+
+Total time: 	0.131
+
+Total time: 	0.114
+
+Total time: 	0.114
+
+Total time: 	0.132
+
+Total time: 	0.121
+
+Total time: 	0.110
+
+Total time: 	0.114
+
+Total time: 	0.148
+
+Total time: 	0.150
+
+Total time: 	0.113
+
+Total time: 	0.111
+
+Total time: 	0.103
+
+Total time: 	0.089
+
+Total time: 	0.117
+
+Total time: 	0.130
+
+Total time: 	0.141
+
+Total time: 	0.130
+
+Total time: 	0.102
+
+Total time: 	0.114
+
+Total time: 	0.191
+
+Total time: 	0.103
+
+Total time: 	0.107
+
+Total time: 	0.099
+
+Total time: 	0.115
+
+Total time: 	0.101
+
+Total time: 	0.165
+
+Total time: 	0.150
+
+Total time: 	0.114
+
+Total time: 	0.116
+
+Total time: 	0.085
+
+Total time: 	0.135
+
+Total time: 	0.169
+
+Total time: 	0.097
+
+Total time: 	0.117
+
+Total time: 	0.113
+
+Total time: 	0.134
+
+Total time: 	0.125
+
+Total time: 	0.127
+
+Total time: 	0.134
+
+Total time: 	0.096
+
+Total time: 	0.121
+
+Total time: 	0.089
+
+Total time: 	0.144
+
+Total time: 	0.141
+
+Total time: 	0.159
+
+Total time: 	0.121
+
+Total time: 	0.096
+
+Total time: 	0.114
+
+Total time: 	0.150
+
+Total time: 	0.127
+
+Total time: 	0.110
+
+Total time: 	0.125
+
+Total time: 	0.110
+
+Total time: 	0.093
+
+Total time: 	0.117
+
+Total time: 	0.138
+
+Total time: 	0.149
+
+Total time: 	0.149
+
+Total time: 	0.105
+
+Total time: 	0.127
+
+Total time: 	0.150
+
+Total time: 	0.111
+
+Total time: 	0.122
+
+Total time: 	0.117
+
+Total time: 	0.096
+
+Total time: 	0.125
+
+Total time: 	0.146
+
+Total time: 	0.124
+
+Total time: 	0.135
+
+Total time: 	0.103
+
+Total time: 	0.109
+
+Total time: 	0.102
+
+Total time: 	0.122
+
+Total time: 	0.151
+
+Total time: 	0.123
+
+Total time: 	0.140
+
+Total time: 	0.088
+
+Total time: 	0.132
+
+Total time: 	0.178
+
+Total time: 	0.148
+
+Total time: 	0.128
+
+Total time: 	0.106
+
+Total time: 	0.116
+
+Total time: 	0.098
+
+Total time: 	0.141
+
+Total time: 	0.114
+
+Total time: 	0.130
+
+Total time: 	0.083
+
+Total time: 	0.159
+
+Total time: 	0.116
+
+Total time: 	0.179
+
+Total time: 	0.122
+
+Total time: 	0.105
+
+Total time: 	0.113
+
+Total time: 	0.109
+
+Total time: 	0.100
+
+Total time: 	0.117
+
+Total time: 	0.110
+
+Total time: 	0.098
+
+Total time: 	0.112
+
+Total time: 	0.094
+
+Total time: 	0.118
+
+Total time: 	0.118
+
+Total time: 	0.163
+
+Total time: 	0.089
+
+Total time: 	0.111
+
+Total time: 	0.096
+
+Total time: 	0.102
+
+Total time: 	0.091
+
+Total time: 	0.148
+
+Total time: 	0.112
+
+Total time: 	0.150
+
+Total time: 	0.125
+
+Total time: 	0.138
+
+Total time: 	0.119
+
+Total time: 	0.186
+
+Total time: 	0.107
+
+Total time: 	0.135
+
+Total time: 	0.099
+
+Total time: 	0.121
+
+Total time: 	0.149
+
+Total time: 	0.131
+
+Total time: 	0.096
+
+Total time: 	0.130
+
+Total time: 	0.138
+
+Total time: 	0.117
+
+Total time: 	0.101
+
+Total time: 	0.163
+
+Total time: 	0.106
+
+Total time: 	0.121
+
+Total time: 	0.088
+
+Total time: 	0.102
+
+Total time: 	0.102
+
+Total time: 	0.119
+
+Total time: 	0.113
+
+Total time: 	0.097
+
+Total time: 	0.138
+
+Total time: 	0.123
+
+Total time: 	0.094
+
+Total time: 	0.202
+
+Total time: 	0.107
+
+Total time: 	0.096
+
+Total time: 	0.120
+
+Total time: 	0.107
+
+Total time: 	0.126
+
+Total time: 	0.117
+
+Total time: 	0.113
+
+Total time: 	0.129
+
+Total time: 	0.145
+
+Total time: 	0.094
+
+Total time: 	0.180
+
+Total time: 	0.099
+
+Total time: 	0.097
+
+Total time: 	0.121
+
+Total time: 	0.119
+
+Total time: 	0.101
+
+Total time: 	0.137
+
+Total time: 	0.138
+
+Total time: 	0.111
+
+Total time: 	0.121
+
+Total time: 	0.098
+
+Total time: 	0.098
+
+Total time: 	0.115
+
+Total time: 	0.183
+
+Total time: 	0.097
+
+Total time: 	0.105
+
+Total time: 	0.097
+
+Total time: 	0.101
+
+Total time: 	0.122
+
+Total time: 	0.125
+
+Total time: 	0.103
+
+Total time: 	0.111
+
+Total time: 	0.108
+
+Total time: 	0.128
+
+Total time: 	0.100
+
+Total time: 	0.128
+
+Total time: 	0.157
+
+Total time: 	0.147
+
+Total time: 	0.092
+
+Total time: 	0.113
+
+Total time: 	0.103
+
+Total time: 	0.121
+
+Total time: 	0.109
+
+Total time: 	0.101
+
+Total time: 	0.124
+
+Total time: 	0.104
+
+Total time: 	0.132
+
+Total time: 	0.104
+
+Total time: 	0.185
+
+Total time: 	0.119
+
+Total time: 	0.095
+
+Total time: 	0.135
+
+Total time: 	0.129
+
+Total time: 	0.111
+
+Total time: 	0.157
+
+Total time: 	0.137
+
+Total time: 	0.097
+
+Total time: 	0.119
+
+Total time: 	0.121
+
+Total time: 	0.162
+
+Total time: 	0.189
+
+Total time: 	0.135
+
+Total time: 	0.141
+
+Total time: 	0.152
+
+Total time: 	0.110
+
+Total time: 	0.128
+
+Total time: 	0.108
+
+Total time: 	0.111
+
+Total time: 	0.094
+
+Total time: 	0.157
+
+Total time: 	0.100
+
+Total time: 	0.139
+
+Total time: 	0.142
+
+Total time: 	0.112
+
+Total time: 	0.150
+
+Total time: 	0.140
+
+Total time: 	0.105
+
+Total time: 	0.186
+
+Total time: 	0.121
+
+Total time: 	0.113
+
+Total time: 	0.116
+
+Total time: 	0.122
+
+Total time: 	0.150
+
+Total time: 	0.144
+
+Total time: 	0.094
+
+Total time: 	0.105
+
+Total time: 	0.126
+
+Total time: 	0.081
+
+Total time: 	0.082
+
+Total time: 	0.139
+
+Total time: 	0.135
+
+Total time: 	0.102
+
+Total time: 	0.100
+
+Total time: 	0.095
+
+Total time: 	0.146
+
+Total time: 	0.187
+
+Total time: 	0.112
+
+Total time: 	0.125
+
+Total time: 	0.121
+
+Total time: 	0.090
+
+Total time: 	0.100
+
+Total time: 	0.143
+
+Total time: 	0.097
+
+Total time: 	0.125
+
+Total time: 	0.115
+
+Total time: 	0.140
+
+Total time: 	0.123
+
+Total time: 	0.203
+
+Total time: 	0.122
+
+Total time: 	0.094
+
+Total time: 	0.097
+
+Total time: 	0.102
+
+Total time: 	0.132
+
+Total time: 	0.089
+
+Total time: 	0.183
+
+Total time: 	0.107
+
+Total time: 	0.110
+
+Total time: 	0.099
+
+Total time: 	0.107
+
+Total time: 	0.183
+
+Total time: 	0.142
+
+Total time: 	0.098
+
+Total time: 	0.090
+
+Total time: 	0.175
+
+Total time: 	0.105
+
+Total time: 	0.125
+
+Total time: 	0.121
+
+Total time: 	0.145
+
+Total time: 	0.112
+
+Total time: 	0.096
+
+Total time: 	0.108
+
+Total time: 	0.134
+
+Total time: 	0.113
+
+Total time: 	0.150
+
+Total time: 	0.104
+
+Total time: 	0.112
+
+Total time: 	0.115
+
+Total time: 	0.156
+
+Total time: 	0.109
+
+Total time: 	0.134
+
+Total time: 	0.092
+
+Total time: 	0.116
+
+Total time: 	0.100
+
+Total time: 	0.098
+
+Total time: 	0.155
+
+Total time: 	0.123
+
+Total time: 	0.119
+
+Total time: 	0.128
+
+Total time: 	0.148
+
+Total time: 	0.135
+
+Total time: 	0.107
+
+Total time: 	0.086
+
+Total time: 	0.097
+
+Total time: 	0.107
+
+Total time: 	0.137
+
+Total time: 	0.089
+
+Total time: 	0.143
+
+Total time: 	0.117
+
+Total time: 	0.110
+
+Total time: 	0.111
+
+Total time: 	0.101
+
+Total time: 	0.102
+
+Total time: 	0.116
+
+Total time: 	0.143
+
+Total time: 	0.098
+
+Total time: 	0.133
+
+Total time: 	0.112
+
+Total time: 	0.148
+
+Total time: 	0.155
+
+Total time: 	0.109
+
+Total time: 	0.101
+
+Total time: 	0.095
+
+Total time: 	0.108
+
+Total time: 	0.129
+
+Total time: 	0.102
+
+Total time: 	0.091
+
+Total time: 	0.090
+
+Total time: 	0.148
+
+Total time: 	0.087
+
+Total time: 	0.119
+
+Total time: 	0.164
+
+Total time: 	0.143
+
+Total time: 	0.129
+
+Total time: 	0.097
+
+Total time: 	0.097
+
+Total time: 	0.140
+
+Total time: 	0.115
+
+Total time: 	0.092
+
+Total time: 	0.111
+
+Total time: 	0.135
+
+Total time: 	0.094
+
+2014-11-02 18:43:12.1414953792
