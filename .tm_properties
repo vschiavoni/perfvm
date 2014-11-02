@@ -1,0 +1,2 @@
+projectDirectory = "$CWD"
+TM_GNUPLOT = "/opt/local/bin/gnuplot"   
